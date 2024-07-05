@@ -23,10 +23,10 @@ My research interests are centered around LLM for code, multimodal understanding
 
 # Work Experiences
 <span class='anchor' id='work-experiences'></span>
-Research Associate, S-Lab, NTU.  
+<b>Research Associate, S-Lab, NTU. </b>
 
 <div style="text-align: right;">
-02/2024-present
+<b>02/2024-present</b>
 <br/>
 Prof. Aixin Sun
 </div>
@@ -38,10 +38,10 @@ Mainly focus on data mining and information retrieval.
 ---
 
 
-Research Intern, NUS Centre for Extreme Search (NExT++), NUS.  
+<b>Research Intern, NExT++, NUS.  </b>
          
 <div style="text-align: right;">
-06/2022-02/2024
+<b>06/2022-02/2024</b>
 <br/>
 Prof. Tat-Seng Chua
 </div>
@@ -52,10 +52,10 @@ Mainly focus on multimodal fusion and understanding.
 
 ---
 
-Research Intern, School of Software Engineering, TongJi University.      
+<b>Research Intern, School of Software Engineering, TongJi University.</b>
 
 <div style="text-align: right;">
-08/2020-06/2022
+<b>08/2020-06/2022</b>
 <br/>
 Prof. Yan Liu
 </div>
