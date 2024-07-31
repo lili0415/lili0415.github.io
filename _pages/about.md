@@ -35,7 +35,7 @@ Prof. Aixin Sun
 
 
 
-Mainly focus on data mining and information retrieval.
+Mainly focus on multimodal understanding and information retrieval.
 
 ---
 
