@@ -326,7 +326,7 @@ Student Volunteer at ACM Web Conference (2024).
 
   Bachelor of Engineering in Software Engineering
 
-  TongJi University, Shanghai
+  TongJi University, China
 
 <!-- <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=MtgOD5bYVhrJl1tzX74CbRhUUslEFdbq-StiPxMz5Ts&cl=ffffff&w=a"></script> -->
 
