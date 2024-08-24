@@ -289,7 +289,9 @@ AAAI 2024 Student Scholarship.
 
 # Services
 <span class='anchor' id='services'></span>
-Program Committee Member of ACM MM (2024) .
+Program Committee Member of ICLR (2025).
+
+Program Committee Member of ACM MM (2024).
 
 Program Committee Member of ECCV (2024).
 
