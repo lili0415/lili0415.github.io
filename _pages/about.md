@@ -25,6 +25,19 @@ My research interests are centered around LLM for code, multimodal understanding
 
 # Work Experiences
 <span class='anchor' id='work-experiences'></span>
+<b>Research Assistant, RESAIL, USC. </b>
+
+<div style="text-align: right;">
+<b>08/2024-present</b>
+<br/>
+Prof. Yue Zhao
+</div>
+
+
+
+<!-- Mainly focus on multimodal understanding and information retrieval. -->
+
+---
 <b>Research Associate, S-Lab, NTU. </b>
 
 <div style="text-align: right;">
@@ -35,7 +48,7 @@ Prof. Aixin Sun
 
 
 
-Mainly focus on multimodal understanding and information retrieval.
+<!-- Mainly focus on multimodal understanding and information retrieval. -->
 
 ---
 
@@ -50,21 +63,21 @@ Prof. Tat-Seng Chua
 
 
 
-Mainly focus on multimodal fusion and understanding.
+<!-- Mainly focus on multimodal fusion and understanding. -->
 
 ---
 
-<b>Research Intern, School of Software Engineering, TongJi University.</b>
+<!-- <b>Research Intern, School of Software Engineering, TongJi University.</b>
 
 <div style="text-align: right;">
 <b>08/2020-06/2022</b>
 <br/>
 Prof. Yan Liu
-</div>
+</div> -->
 
 
 
-Mainly focus on neural code search and neural code completion.
+<!-- Mainly focus on neural code search and neural code completion. -->
          
 
 
