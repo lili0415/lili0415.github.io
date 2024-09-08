@@ -25,7 +25,7 @@ My research interests are centered around LLM for code, multimodal understanding
 
 # Work Experiences
 <span class='anchor' id='work-experiences'></span>
-<b>Research Assistant, RESAIL, USC. </b>
+<b>Research Assistant, FORTIS, USC. </b>
 
 <div style="text-align: right;">
 <b>08/2024-present</b>
