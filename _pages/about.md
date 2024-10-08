@@ -314,6 +314,8 @@ Program Committee Member of ICLR AGI Workshop (2024).
 
 Program Committee Member of ACM MM MMGR Workshop (2023, 2024).
 
+Journal Reviewer for Frontiers of Information Technology & Electronic Engineering.
+
 Student Volunteer at ACM Web Conference (2024).
 
 # Educations
