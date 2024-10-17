@@ -317,6 +317,8 @@ Program Committee Member of ACM MM MMGR Workshop (2023, 2024).
 
 Journal Reviewer for Frontiers of Information Technology & Electronic Engineering.
 
+Journal Reviewer for IEEE Transactions on Neural Networks and Learning Systems.
+
 Student Volunteer at ACM Web Conference (2024).
 
 # Educations
