@@ -311,6 +311,8 @@ Program Committee Member of ECCV (2024).
 
 Program Committee Member of ACL ARR (2024).
 
+Program Committee Member of ICASSP (2025).
+
 Program Committee Member of ICLR AGI Workshop (2024).
 
 Program Committee Member of ACM MM MMGR Workshop (2023, 2024).
