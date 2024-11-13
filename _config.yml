@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Li Li"
-description              : "Li Li's Homepage"
+title                    : "Shawn Li"
+description              : "Shawn Li's Homepage"
 repository               : "lili0415/lili0415.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Li Li (黎力)"
+  name             : "Shawn Li (黎力)"
   avatar           : "images/WechatIMG55.jpeg"
   bio              : "PhD student at USC"
   location         : "USA"
