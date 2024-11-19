@@ -109,18 +109,6 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
  </tbody>
 </table>
 
-<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2406.01601" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">Backpropagation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration</span> 
-      <br><b>Li Li</b>*, Wei Ji*, Zheqi Lv*, Wenqiao Zhang, Mengze Li, Zhen Wan, Wenqiang Lei, Roger Zimmermann
-    <br>Preprint&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table>
-
 
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
@@ -141,6 +129,18 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td><span class="title" style="FONT-WEIGHT: bold">Efficient Temporal Sentence Grounding in Videos with Multi-Teacher Knowledge Distillation</span> 
       <br>Renjie Liang, Yiming Yang, Hui Lu, <b>Li Li</b>
     <br>Preprint&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2406.01601" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Backpropagation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration</span> 
+      <br><b>Li Li</b>*, Wei Ji*, Zheqi Lv*, Wenqiao Zhang, Mengze Li, Zhen Wan, Wenqiang Lei, Roger Zimmermann
+    <br>ACM Transactions on Multimedia Computing Communications and Applications&nbsp;&nbsp; 
   </td> 
   </tr>
  </tbody>
