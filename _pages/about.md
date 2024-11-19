@@ -139,7 +139,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
   <tr>
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2406.01601" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">Backpropagation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration</span> 
-      <br><b>Li Li</b>*, Wei Ji*, Zheqi Lv*, Wenqiao Zhang, Mengze Li, Zhen Wan, Wenqiang Lei, Roger Zimmermann
+      <br>Wei Ji*, <b>Li Li</b>*, Zheqi Lv*, Wenqiao Zhang, Mengze Li, Zhen Wan, Wenqiang Lei, Roger Zimmermann
     <br>ACM Transactions on Multimedia Computing Communications and Applications&nbsp;&nbsp; 
   </td> 
   </tr>
