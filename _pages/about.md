@@ -102,7 +102,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
   <tr>
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/abs/2411.08227" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">COOD: Concept-based Zero-shot OOD Detection</span> 
-      <br>Zhendong Liu, Yi Nian, Henry Peng Zou, <b>Li Li</b>, Xiyang Hu, Yue Zhao
+      <br>Zhendong Liu*, Yi Nian*, Henry Peng Zou, <b>Li Li</b>, Xiyang Hu, Yue Zhao
     <br>Preprint&nbsp;&nbsp; 
   </td> 
   </tr>
