@@ -100,7 +100,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/abs/2411.08227" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2411.13578" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">COOD: Concept-based Zero-shot OOD Detection</span> 
       <br>Zhendong Liu*, Yi Nian*, Henry Peng Zou, <b>Li Li</b>, Xiyang Hu, Yue Zhao
     <br>Preprint&nbsp;&nbsp; 
