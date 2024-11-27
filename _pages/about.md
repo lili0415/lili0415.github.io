@@ -34,7 +34,7 @@ My research interests are centered around LLM for code, multimodal understanding
 
 **2024.08.22 -** Start my PhD journey at USC.
 
-**2024.07.31 -** My last day at S-Lab NTU and Singapore.
+**2024.07.31 -** My last day at S-Lab NTU and in Singapore.
 
 **2024.7 -** We have a new paper on ranked video moment retrieval; see our[Preprint](https://arxiv.org/pdf/2407.06597).
 
