@@ -23,6 +23,24 @@ Hi! I am a PhD student at Thomas Lord Department of Computer Science, **Universi
 Before my PhD study in the USA, I spent wonderful years in Singapore and cooperated with great professors. I served as a research associate at **Nanyang Technological University**, working with Prof. [Aixin Sun](https://scholar.google.com/citations?user=wyKGVKUAAAAJ&hl=zh-CN). I earned my Master's degree from **National University of Singapore** in 2024, where I contributed as a research intern under the guidance of Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao) and Prof. [Roger Zimmermann](https://scholar.google.com/citations?user=IDREwXEAAAAJ&hl=zh-CN&oi=ao). Prior to that, I successfully completed my Bachelor's degree at **TongJi University**, China in 2022.
 My research interests are centered around LLM for code, multimodal understanding, and information retrieval.
 
+# News
+2024.11: Our paper "Backpropagation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration" is accepted by ACM Transactions on Multimedia Computing Communications and Applications.
+
+2024.10: Our paper "Towards Complex-query Referring Image Segmentation: A Novel Benchmark" is accepted by ACM Transactions on Multimedia Computing Communications and Applications.
+
+2024.10: We have a new paper on dynamic prototype updating for multimodal out-of-distribution detection; see our [Preprint](https://arxiv.org/pdf/2411.08227).
+
+2024.10: We have a new paper on concept-based zero-shot OOD detection; see our [Preprint](https://arxiv.org/pdf/2411.13578).
+
+2024.08.22: Start my PhD journey at USC.
+
+2024.07.31: My last day at S-Lab NTU and Singapore.
+
+2024.7: We have a new paper on ranked video moment retrieval; see our[Preprint](https://arxiv.org/pdf/2407.06597).
+
+2024.02: Start to working as a research associate at S-Lab NTU.
+
+
 # Work Experiences
 <span class='anchor' id='work-experiences'></span>
 <b>Research Assistant, FORTIS, USC. </b>
