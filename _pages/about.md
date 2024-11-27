@@ -24,6 +24,7 @@ Before my PhD study in the USA, I spent wonderful years in Singapore and coopera
 My research interests are centered around LLM for code, multimodal understanding, and information retrieval.
 
 # News
+<span class='anchor' id='news'></span>
 **2024.11 -** Our paper "Backpropagation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration" is accepted by ACM Transactions on Multimedia Computing Communications and Applications.
 
 **2024.10 -** Our paper "Towards Complex-query Referring Image Segmentation: A Novel Benchmark" is accepted by ACM Transactions on Multimedia Computing Communications and Applications.
