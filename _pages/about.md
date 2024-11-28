@@ -30,7 +30,7 @@ My research interests are centered around LLM for code, multimodal understanding
 
 **2024.10 -** Our paper "Towards Complex-query Referring Image Segmentation: A Novel Benchmark" is accepted by ACM Transactions on Multimedia Computing Communications and Applications.
 
-**2024.10 -** We have a new paper on dynamic prototype updating for multimodal out-of-distribution detection; see our [Preprint](https://arxiv.org/pdf/2411.08227).
+**2024.10 -** We have a new paper on multimodal OOD detection; see our [Preprint](https://arxiv.org/pdf/2411.08227).
 
 **2024.10 -** We have a new paper on concept-based zero-shot OOD detection; see our [Preprint](https://arxiv.org/pdf/2411.13578).
 
