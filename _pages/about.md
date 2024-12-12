@@ -169,7 +169,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2406.01601" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://dl.acm.org/doi/abs/10.1145/3706422" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">Backpropagation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration</span> 
       <br>Wei Ji*, <b>Li Li</b>*, Zheqi Lv*, Wenqiao Zhang, Mengze Li, Zhen Wan, Wenqiang Lei, Roger Zimmermann
     <br>ACM Transactions on Multimedia Computing Communications and Applications&nbsp;&nbsp; 
@@ -181,7 +181,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2309.17205.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://dl.acm.org/doi/abs/10.1145/3701733" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">Towards Complex-query Referring Image Segmentation: A Novel Benchmark</span> 
       <br>Wei Ji, <b>Li Li</b>, Hao Fei, Xiangyan Liu, Xun Yang, Juncheng Li, Roger Zimmermann
     <br>ACM Transactions on Multimedia Computing Communications and Applications &nbsp;&nbsp; 
@@ -251,94 +251,6 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 </table>
 
 
-<!-- <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://lili0415.github.io" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">Generalized Video Moment Retrieval</span> 
-      <br>Wei Ji, You Qin, Qilong Wu, <b>Li Li</b>, Pengcheng Cai, Lina Wei, Roger Zimmermann
-    <br>Preprint&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table>
-
-<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://lili0415.github.io" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">StableSynthNet: Revolutionizing HyperNetworks for Enhanced Multi-modal Model Generalization</span> 
-      <br>Wei Ji*, <b>Li Li</b>*, Zheqi Lv*, Wenqiao Zhang, Yifang Yin, Fei Wu, Roger Zimmermann
-    <br>Preprint&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table>
-
-<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://lili0415.github.io" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">Backpropogation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration</span> 
-      <br>Wei Ji*, <b>Li Li</b>*, Zheqi Lv*, Wenqiao Zhang, Mengze Li, Zhen Wan, Wenqiang Lei, Roger Zimmermann
-    <br>Preprint&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table> -->
-
-
-
-
-<!-- - **On the Importance of Building High-quality Training Datasets for Neural Code Search**
-
-  Zhensu Sun, <span style="border-bottom:2px solid black;">**Li Li**</span>, Yan Liu, Xiaoning Du, Li Li
-
-  **ICSE 2022, Nominated for distinguished paper award**
-
-- **Biased-Predicate Annotation Identification via Unbiased Visual Predicate Representation**
-
-  <span style="border-bottom:2px solid black;">**Li Li**</span>\*, Chenwei Wang*, You Qin, Wei Ji, Renjie Liang
-
-  **ACM MM 2023, Accepted with full marks**
-
-- **Transfer Visual Prompt Generator across LLMs**
-
-  Ao Zhang, Hao Fei, Yuan Yao, Wei Ji, <span style="border-bottom:2px solid black;">**Li Li**</span>, Zhiyuan Liu, Tat-Seng Chua
-
-  **NeurIPS 2023**
-
-- **Panoptic Scene Graph Generation with Semantics-prototype Learning**
-
-  <span style="border-bottom:2px solid black;">**Li Li**</span>, Wei Ji, Yiming Wu, Mengze Li, You Qin, Lina Wei, Roger Zimmermann
-
-  **AAAI 2024**
-
-- **Domain-wise Invariant Learning for Panoptic Scene Graph Generation**
-
-  <span style="border-bottom:2px solid black;">**Li Li**</span>, You Qin, Wei Ji, Yuxiao Zhou, Roger Zimmermann
-  
-  **ICASSP 2024** -->
-
-<!-- - **StableSynthNet: Revolutionizing HyperNetworks for Enhanced Multi-modal Model Generalization**
-
-  Wei Ji\*, <span style="border-bottom:2px solid black;">**Li Li**</span>\*, Zheqi Lv, Wenqiao Zhang, Yifang Yin, Fei Wu, Roger Zimmermann
-
-  **Submitted to CVPR 2024** -->
-
-<!-- 
-- **Towards Complex-query Referring Image Segmentation: A Novel Benchmark**
-
-  Wei Ji, <span style="border-bottom:2px solid black;">**Li Li**</span>, Hao Fei, Xiangyan Liu, Xun Yang, Juncheng Li, Roger Zimmermann
-
-  **Submitted to IEEE T-MM** -->
-
-<!-- - **Backpropogation-Free On-Device Multi-Modal Model Adaptation via Cloud-Device Collaboration**
-
-  Wei Ji*, **Li Li\***, Zheqi Lv, Wenqiao Zhang, Mengze Li, Zhen Wan, Wenqiang Lei, Roger Zimmermann
-
-  **Submitted to ACM Web Conference 2024** -->
-
 # Honors and Awards
 <span class='anchor' id='honors-and-awards'></span>
 ICSE 2022 Distinguished Paper Award Nomination.
@@ -347,6 +259,8 @@ AAAI 2024 Student Scholarship.
 
 # Services
 <span class='anchor' id='services'></span>
+Program Committee Member of ICML (2025).
+
 Program Committee Member of ICLR (2025).
 
 Program Committee Member of ACM MM (2024).
