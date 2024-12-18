@@ -26,6 +26,8 @@ My research interests are centered around LLM for code, multimodal understanding
 # News
 <span class='anchor' id='news'></span>
 
+**2024.12 -** We have a new paper on PyOD Version 2; see our [Preprint](https://www.arxiv.org/pdf/2412.12154).
+
 **2024.12 -** We have a new paper evaluating how LLMs can help with anomaly detection (AD-LLM); see our [Preprint](https://arxiv.org/pdf/2412.11142).
 
 **2024.11 -** Our paper "Backpropagation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration" is accepted by ACM Transactions on Multimedia Computing Communications and Applications.
@@ -106,6 +108,18 @@ Prof. Yan Liu
 # Publications
 <span class='anchor' id='publications'></span>
 please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL4cAAAAJ&hl=zh-CN) page to check all my publications. (* Equal Contribution)
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://www.arxiv.org/pdf/2412.12154" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">PyOD 2: A Python Library for Outlier Detection with LLM-powered Model Selection</span> 
+      <br>Sihan Chen*, Zhuangzhuang Qian*, Wingchun Siu*, Xingcan Hu, Jiaqi Li, <b>Shawn Li</b>, Yuehan Qin, Tiankai Yang, Zhuo Xiao, Wanghao Ye, Yichi Zhang, Yushun Dong, Yue Zhao
+    <br>Preprint&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
 
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
