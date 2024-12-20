@@ -281,6 +281,8 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
 # Honors and Awards
 <span class='anchor' id='honors-and-awards'></span>
+Capital One Fellowship 2025.
+
 ICSE 2022 Distinguished Paper Award Nomination.
 
 AAAI 2024 Student Scholarship.
