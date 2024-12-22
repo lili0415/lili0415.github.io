@@ -18,7 +18,7 @@ redirect_from:
 # About Me
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a PhD student at Thomas Lord Department of Computer Science, **University of Southern California**, supervised by Prof. [Yue Zhao](https://scholar.google.com/citations?user=zoGDYsoAAAAJ&hl=en).
+Hi! I am Li (Shawn) Li, a PhD student at Thomas Lord Department of Computer Science, **University of Southern California**, supervised by Prof. [Yue Zhao](https://scholar.google.com/citations?user=zoGDYsoAAAAJ&hl=en).
 
 Before my PhD study in the USA, I spent wonderful years in Singapore and cooperated with great professors. I served as a research associate at **Nanyang Technological University**, working with Prof. [Aixin Sun](https://scholar.google.com/citations?user=wyKGVKUAAAAJ&hl=zh-CN). I earned my Master's degree from **National University of Singapore** in 2024, where I contributed as a research intern under the guidance of Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao) and Prof. [Roger Zimmermann](https://scholar.google.com/citations?user=IDREwXEAAAAJ&hl=zh-CN&oi=ao). Prior to that, I successfully completed my Bachelor's degree at **TongJi University**, China in 2022.
 My research interests are centered around LLM for code, multimodal understanding, and information retrieval.
