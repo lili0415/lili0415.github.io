@@ -309,6 +309,8 @@ Journal Reviewer for Frontiers of Information Technology & Electronic Engineerin
 
 Journal Reviewer for IEEE Transactions on Neural Networks and Learning Systems.
 
+Journal Reviewer for IEEE Transactions on Circuits and Systems for Video Technology
+
 Student Volunteer at ACM Web Conference (2024).
 
 # Educations
