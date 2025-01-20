@@ -26,7 +26,7 @@ My research interests are centered around multimodal understanding, Out-of-Distr
 # News
 <span class='anchor' id='news'></span>
 
-**2024.12 -** We have a new paper on PyOD Version 2; see our [Preprint](https://www.arxiv.org/pdf/2412.12154).
+**2025.01 -** Our paper "PyOD 2: A Python Library for Outlier Detection with LLM-powered Model Selection" is accepted by the WebConf 2025 Demo Track.
 
 **2024.12 -** We have a new paper evaluating how LLMs can help with anomaly detection (AD-LLM); see our [Preprint](https://arxiv.org/pdf/2412.11142).
 
@@ -112,18 +112,6 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://www.arxiv.org/pdf/2412.12154" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">PyOD 2: A Python Library for Outlier Detection with LLM-powered Model Selection</span> 
-      <br>Sihan Chen*, Zhuangzhuang Qian*, Wingchun Siu*, Xingcan Hu, Jiaqi Li, <b>Shawn Li</b>, Yuehan Qin, Tiankai Yang, Zhuo Xiao, Wanghao Ye, Yichi Zhang, Yushun Dong, Yue Zhao
-    <br>Preprint&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table>
-
-<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/abs/2412.11142" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">AD-LLM: Benchmarking Large Language Models for Anomaly Detection</span> 
       <br>Tiankai Yang*, Yi Nian*, <b>Li Li</b>, Ruiyao Xu, Yuangang Li, Jiaqi Li, Zhuo Xiao, Xiyang Hu, Ryan Rossi, Kaize Ding, Xia Hu, Yue Zhao
@@ -189,6 +177,18 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td><span class="title" style="FONT-WEIGHT: bold">Efficient Temporal Sentence Grounding in Videos with Multi-Teacher Knowledge Distillation</span> 
       <br>Renjie Liang, Yiming Yang, Hui Lu, <b>Li Li</b>
     <br>Preprint&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://www.arxiv.org/pdf/2412.12154" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">PyOD 2: A Python Library for Outlier Detection with LLM-powered Model Selection</span> 
+      <br>Sihan Chen*, Zhuangzhuang Qian*, Wingchun Siu*, Xingcan Hu, Jiaqi Li, <b>Shawn Li</b>, Yuehan Qin, Tiankai Yang, Zhuo Xiao, Wanghao Ye, Yichi Zhang, Yushun Dong, Yue Zhao
+    <br>WebConf 2025, Demo Paper&nbsp;&nbsp; 
   </td> 
   </tr>
  </tbody>
