@@ -295,6 +295,8 @@ Program Committee Member of ICLR (2025).
 
 Program Committee Member of ICASSP (2025).
 
+Program Committee Member of KDD (2025).
+
 Program Committee Member of IJCNN (2025).
 
 Program Committee Member of ACM MM (2024).
