@@ -26,6 +26,8 @@ My research interests are centered around multimodal understanding, Out-of-Distr
 # News
 <span class='anchor' id='news'></span>
 
+**2025.01 -** Our paper "Generalized Video Moment Retrieval" is accepted by the ICLR 2025 (To Appear). 
+
 **2025.01 -** Our paper "PyOD 2: A Python Library for Outlier Detection with LLM-powered Model Selection" is accepted by the WebConf 2025 Demo Track.
 
 **2024.12 -** We have a new paper evaluating how LLMs can help with anomaly detection (AD-LLM); see our [Preprint](https://arxiv.org/pdf/2412.11142).
