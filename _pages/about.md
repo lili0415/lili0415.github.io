@@ -307,6 +307,8 @@ Program Committee Member of ICML (2025).
 
 Program Committee Member of ICLR (2025).
 
+Program Committee Member of ICCV (2025).
+
 Program Committee Member of COLM (2025).
 
 Program Committee Member of ICASSP (2025).
