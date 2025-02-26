@@ -26,6 +26,8 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 # News
 <span class='anchor' id='news'></span>
 
+**2025.02 -** Our paper "DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection" is accepted by the CVPR 2025.
+
 **2025.01 -** Our paper "Generalized Video Moment Retrieval" is accepted by the ICLR 2025. 
 
 **2025.01 -** Our paper "PyOD 2: A Python Library for Outlier Detection with LLM-powered Model Selection" is accepted by the WebConf 2025 Demo Track.
@@ -35,8 +37,6 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 **2024.11 -** Our paper "Backpropagation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration" is accepted by ACM Transactions on Multimedia Computing Communications and Applications.
 
 **2024.10 -** Our paper "Towards Complex-query Referring Image Segmentation: A Novel Benchmark" is accepted by ACM Transactions on Multimedia Computing Communications and Applications.
-
-**2024.10 -** We have a new paper on multimodal OOD detection; see our [Preprint](https://arxiv.org/pdf/2411.08227).
 
 **2024.10 -** We have a new paper on concept-based zero-shot OOD detection; see our [Preprint](https://arxiv.org/pdf/2411.13578).
 
@@ -123,17 +123,6 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
  </tbody>
 </table>
 
-<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/abs/2411.08227" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection</span> 
-      <br><b>Li Li</b>, Huixian Gong, Hao Dong, Tiankai Yang, Zhengzhong Tu, Yue Zhao
-    <br>Preprint&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table>
 
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
@@ -179,6 +168,18 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td><span class="title" style="FONT-WEIGHT: bold">Efficient Temporal Sentence Grounding in Videos with Multi-Teacher Knowledge Distillation</span> 
       <br>Renjie Liang, Yiming Yang, Hui Lu, <b>Li Li</b>
     <br>Preprint&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/abs/2411.08227" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection</span> 
+      <br><b>Li Li</b>, Huixian Gong, Hao Dong, Tiankai Yang, Zhengzhong Tu, Yue Zhao
+    <br>CVPR 2025&nbsp;&nbsp; 
   </td> 
   </tr>
  </tbody>
