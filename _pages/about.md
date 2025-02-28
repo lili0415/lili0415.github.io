@@ -330,6 +330,8 @@ Program Committee Member of ACM MM MMGR Workshop (2023, 2024).
 
 Journal Reviewer for IEEE Transactions on Neural Networks and Learning Systems.
 
+Journal Reviewer for IEEE Transactions on Multimedia.
+
 Journal Reviewer for IEEE Transactions on Circuits and Systems for Video Technology.
 
 Student Volunteer at ACM Web Conference (2024).
