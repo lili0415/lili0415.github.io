@@ -26,6 +26,11 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 # News
 <span class='anchor' id='news'></span>
 
+**2025.03 -** We have a new paper aiming for secured on-device OOD detetion; see our [Preprint](https://arxiv.org/pdf/2503.06166).
+
+**2025.03 -** We have a new paper tackling VLM hallucination from a causal prospective; see our [Preprint](https://arxiv.org/pdf/2503.06169).
+
+
 **2025.02 -** Our paper "DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection" is accepted by the CVPR 2025.
 
 **2025.01 -** Our paper "Generalized Video Moment Retrieval" is accepted by the ICLR 2025. 
@@ -110,6 +115,30 @@ Prof. Yan Liu
 # Publications
 <span class='anchor' id='publications'></span>
 please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL4cAAAAJ&hl=zh-CN) page to check all my publications. (* Equal Contribution)
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2503.06166" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Secure On-Device Video OOD Detection Without Backpropagation</span> 
+      <br><b>Li Li</b>, Peilin Cai, Yuxiao Zhou, Zhiyu Ni, Renjie Liang, You Qin, Yi Nian, Zhengzhong Tu, Xiyang Hu, Yue Zhao
+    <br>Preprint&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2503.06169" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Treble Counterfactual VLMs: A Causal Approach to Hallucination</span> 
+      <br><b>Li Li</b>, Jiashu Qu, Yuxiao Zhou, Yuehan Qin, Tiankai Yang, Yue Zhao
+    <br>Preprint&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
 
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
