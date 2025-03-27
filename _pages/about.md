@@ -366,9 +366,9 @@ Program Committee Member of ECCV (2024).
 
 Program Committee Member of ACL ARR (2024, 2025).
 
-Program Committee Member of ICLR AGI Workshop (2024).
-
 Program Committee Member of ACM MM MMGR Workshop (2023, 2024).
+
+Program Committee Member of CVPR TMM-OpenWorld Workshop (2025).
 
 Journal Reviewer for IEEE Transactions on Neural Networks and Learning Systems.
 
