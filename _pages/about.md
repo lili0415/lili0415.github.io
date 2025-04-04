@@ -32,7 +32,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 
 **2025.03 -** We have a new paper for decoupled multimodal representation learning; see our [Preprint](https://arxiv.org/pdf/2503.11892).
 
-**2025.02 -** Our paper "DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection" is accepted by the CVPR 2025.
+**2025.02 -** Our paper "DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection" is accepted by the CVPR 2025 as a Highlight.
 
 **2025.01 -** Our paper "Generalized Video Moment Retrieval" is accepted by the ICLR 2025. 
 
@@ -221,7 +221,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/abs/2411.08227" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection</span> 
       <br><b>Li Li</b>, Huixian Gong, Hao Dong, Tiankai Yang, Zhengzhong Tu, Yue Zhao
-    <br>CVPR 2025&nbsp;&nbsp; 
+    <br>CVPR 2025, <span style="color: red">Highlight</span>&nbsp;&nbsp; 
   </td> 
   </tr>
  </tbody>
