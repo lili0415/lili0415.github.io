@@ -26,7 +26,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 # News
 <span class='anchor' id='news'></span>
 
-**2025.04 -** We have a new paper on LLM jailbreak detection; see our [Preprint](https://arxiv.org/pdf/2504.03770).
+**2025.04 -** We have a new paper on VLM jailbreak detection; see our [Preprint](https://arxiv.org/pdf/2504.03770).
 
 **2025.03 -** We have a new paper aiming for secured on-device OOD detetion; see our [Preprint](https://arxiv.org/pdf/2503.06166).
 
