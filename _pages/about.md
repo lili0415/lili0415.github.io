@@ -26,6 +26,8 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 # News
 <span class='anchor' id='news'></span>
 
+**2025.04 -** We have a new paper using premise verification to prevent LLM from hallucinations; see our [Preprint](https://arxiv.org/pdf/2504.06438).
+
 **2025.04 -** We have a new paper on VLM jailbreak detection; see our [Preprint](https://arxiv.org/pdf/2504.03770).
 
 **2025.03 -** We have a new paper aiming for secured on-device OOD detetion; see our [Preprint](https://arxiv.org/pdf/2503.06166).
@@ -118,6 +120,19 @@ Prof. Yan Liu
 # Publications
 <span class='anchor' id='publications'></span>
 please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL4cAAAAJ&hl=zh-CN) page to check all my publications. (* Equal Contribution)
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2504.06438" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Don’t Let It Hallucinate: Premise Verification via Retrieval-Augmented Logical Reasoning</span> 
+      <br>Yuehan Qin, <b>Li Li</b>, Yi Nian, Xinyan Velocity Yu, Yue Zhao, Xuezhe Ma
+    <br>Preprint&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
+
 
 
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
