@@ -26,6 +26,8 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 # News
 <span class='anchor' id='news'></span>
 
+**2025.05 -** I will join Adobe as a Research Scientist Intern this summer 2025. Hope to have a great summer life in San Jose!
+
 **2025.04 -** We have a new paper using premise verification to prevent LLM from hallucinations; see our [Preprint](https://arxiv.org/pdf/2504.06438).
 
 **2025.04 -** We have a new paper on VLM jailbreak detection; see our [Preprint](https://arxiv.org/pdf/2504.03770).
