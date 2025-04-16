@@ -38,7 +38,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 
 **2025.03 -** We have a new paper for decoupled multimodal representation learning; see our [Preprint](https://arxiv.org/pdf/2503.11892).
 
-**2025.02 -** Our paper "DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection" is accepted by the CVPR 2025 as a Highlight.
+**2025.02 -** Our paper "DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection" is accepted as a Highlight Paper by the CVPR 2025.
 
 **2025.01 -** Our paper "Generalized Video Moment Retrieval" is accepted by the ICLR 2025. 
 
