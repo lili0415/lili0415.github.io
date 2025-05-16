@@ -26,6 +26,8 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 # News
 <span class='anchor' id='news'></span>
 
+**2025.05 -** Our paper "AD-LLM: Benchmarking Large Language Models for Anomaly Detection" is accepted as Findings by the ACL 2025.
+
 **2025.05 -** I will join Adobe as a Research Scientist Intern this summer 2025. Hope to have a great summer life in San Jose!
 
 **2025.04 -** We have a new paper using premise verification to prevent LLM from hallucinations; see our [Preprint](https://arxiv.org/pdf/2504.06438).
@@ -185,18 +187,6 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
  </tbody>
 </table>
 
-<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/abs/2412.11142" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">AD-LLM: Benchmarking Large Language Models for Anomaly Detection</span> 
-      <br>Tiankai Yang*, Yi Nian*, <b>Li Li</b>, Ruiyao Xu, Yuangang Li, Jiaqi Li, Zhuo Xiao, Xiyang Hu, Ryan Rossi, Kaize Ding, Xia Hu, Yue Zhao
-    <br>Preprint&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table>
-
 
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
@@ -242,6 +232,18 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td><span class="title" style="FONT-WEIGHT: bold">Efficient Temporal Sentence Grounding in Videos with Multi-Teacher Knowledge Distillation</span> 
       <br>Renjie Liang, Yiming Yang, Hui Lu, <b>Li Li</b>
     <br>Preprint&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/abs/2412.11142" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">AD-LLM: Benchmarking Large Language Models for Anomaly Detection</span> 
+      <br>Tiankai Yang*, Yi Nian*, <b>Li Li</b>, Ruiyao Xu, Yuangang Li, Jiaqi Li, Zhuo Xiao, Xiyang Hu, Ryan Rossi, Kaize Ding, Xia Hu, Yue Zhao
+    <br>ACL 2025 Findings&nbsp;&nbsp; 
   </td> 
   </tr>
  </tbody>
