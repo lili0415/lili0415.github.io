@@ -46,8 +46,6 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 
 **2025.01 -** Our paper "PyOD 2: A Python Library for Outlier Detection with LLM-powered Model Selection" is accepted by the WebConf 2025 Demo Track.
 
-**2024.12 -** We have a new paper evaluating how LLMs can help with anomaly detection (AD-LLM); see our [Preprint](https://arxiv.org/pdf/2412.11142).
-
 **2024.11 -** Our paper "Backpropagation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration" is accepted by ACM Transactions on Multimedia Computing Communications and Applications.
 
 **2024.10 -** Our paper "Towards Complex-query Referring Image Segmentation: A Novel Benchmark" is accepted by ACM Transactions on Multimedia Computing Communications and Applications.
