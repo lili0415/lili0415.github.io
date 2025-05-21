@@ -26,6 +26,8 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 # News
 <span class='anchor' id='news'></span>
 
+**2025.04 -** We have a new paper benchmarking personalized conversation; see our [Preprint](https://arxiv.org/pdf/2505.14106).
+
 **2025.05 -** Our paper "AD-LLM: Benchmarking Large Language Models for Anomaly Detection" is accepted as Findings by the ACL 2025.
 
 **2025.05 -** I will join Adobe as a Research Scientist Intern this summer 2025. Hope to have a great summer life in San Jose!
@@ -131,6 +133,19 @@ Prof. Yan Liu
 # Publications
 <span class='anchor' id='publications'></span>
 please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL4cAAAAJ&hl=zh-CN) page to check all my publications. (* Equal Contribution)
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2505.14106" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">A Personalized Conversational Benchmark: Towards Simulating Personalized Conversations</span> 
+      <br><b>Li Li</b>, Peilin Cai, Ryan A. Rossi, Franck Dernoncourt, Branislav Kveton, Junda Wu, Tong Yu, Linxin Song, Tiankai Yang, Yuehan Qin, Nesreen K. Ahmed, Samyadeep Basu, Subhojyoti Mukherjee, Ruiyi Zhang, Zhengmian Hu, Bo Ni, Yuxiao Zhou, Zichao Wang, Yue Huang, Yu Wang, Xiangliang Zhang, Philip S. Yu, Xiyang Hu, Yue Zhao
+    <br>Preprint&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
+
 
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
