@@ -73,6 +73,8 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 San Jose, CA
 </div>
 
+---
+
 <span class='anchor' id='work-experiences'></span>
 <b>Research Assistant, FORTIS, USC. </b>
 
