@@ -26,7 +26,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 # News
 <span class='anchor' id='news'></span>
 
-**2025.04 -** We have a new paper benchmarking personalized conversation; see our [Preprint](https://arxiv.org/pdf/2505.14106).
+**2025.05 -** We have a new paper benchmarking personalized conversation; see our [Preprint](https://arxiv.org/pdf/2505.14106).
 
 **2025.05 -** Our paper "AD-LLM: Benchmarking Large Language Models for Anomaly Detection" is accepted as Findings by the ACL 2025.
 
