@@ -26,6 +26,8 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 # News
 <span class='anchor' id='news'></span>
 
+**2025.06 -** Our paper "Secure On-Device Video OOD Detection Without Backpropagation" is accepted by ICCV 2025.
+
 **2025.05 -** We have a new paper benchmarking personalized conversation; see our [Preprint](https://arxiv.org/pdf/2505.14106).
 
 **2025.05 -** Our paper "AD-LLM: Benchmarking Large Language Models for Anomaly Detection" is accepted as Findings by the ACL 2025.
@@ -175,12 +177,13 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
  </tbody>
 </table> -->
 
+
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2503.06166" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">Secure On-Device Video OOD Detection Without Backpropagation</span> 
-      <br><b>Li Li</b>, Peilin Cai, Yuxiao Zhou, Zhiyu Ni, Renjie Liang, You Qin, Yi Nian, Zhengzhong Tu, Xiyang Hu, Yue Zhao
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2503.06169" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Treble Counterfactual VLMs: A Causal Approach to Hallucination</span> 
+      <br><b>Li Li</b>, Jiashu Qu, Yuxiao Zhou, Yuehan Qin, Tiankai Yang, Yue Zhao
     <br>Preprint&nbsp;&nbsp; 
   </td> 
   </tr>
@@ -190,10 +193,10 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2503.06169" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">Treble Counterfactual VLMs: A Causal Approach to Hallucination</span> 
-      <br><b>Li Li</b>, Jiashu Qu, Yuxiao Zhou, Yuehan Qin, Tiankai Yang, Yue Zhao
-    <br>Preprint&nbsp;&nbsp; 
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2503.06166" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Secure On-Device Video OOD Detection Without Backpropagation</span> 
+      <br><b>Li Li</b>, Peilin Cai, Yuxiao Zhou, Zhiyu Ni, Renjie Liang, You Qin, Yi Nian, Zhengzhong Tu, Xiyang Hu, Yue Zhao
+    <br>ICCV 2025&nbsp;&nbsp; 
   </td> 
   </tr>
  </tbody>
