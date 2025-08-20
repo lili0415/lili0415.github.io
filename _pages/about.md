@@ -176,7 +176,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2503.06169" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">Treble Counterfactual VLMs: A Causal Approach to Hallucination</span> 
       <br><b>Li Li</b>, Jiashu Qu, Yuxiao Zhou, Yuehan Qin, Tiankai Yang, Yue Zhao
-    <br>Preprint&nbsp;&nbsp; 
+    <br>EMNLP 2025 Findings&nbsp;&nbsp; 
   </td> 
   </tr>
  </tbody>
