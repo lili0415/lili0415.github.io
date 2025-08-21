@@ -26,6 +26,8 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 # News
 <span class='anchor' id='news'></span>
 
+**2025.08 -** Our paper "Treble Counterfactual VLMs: A Causal Approach to Hallucination" is accepted as a Findings paper by EMNLP 2025; see our [Preprint](hhttps://arxiv.org/pdf/2503.06169).
+
 **2025.06 -** Our paper "JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model" is accepted by COLM 2025; see our [Preprint](https://arxiv.org/pdf/2504.03770).
 
 **2025.06 -** Our paper "Secure On-Device Video OOD Detection Without Backpropagation" is accepted by ICCV 2025.
