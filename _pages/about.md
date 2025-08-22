@@ -26,7 +26,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 # News
 <span class='anchor' id='news'></span>
 
-**2025.08 -** Our paper "Treble Counterfactual VLMs: A Causal Approach to Hallucination" is accepted as a Findings paper by EMNLP 2025; see our [Preprint](hhttps://arxiv.org/pdf/2503.06169).
+**2025.08 -** Our paper "Treble Counterfactual VLMs: A Causal Approach to Hallucination" is accepted as a Findings paper by EMNLP 2025.
 
 **2025.06 -** Our paper "JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model" is accepted by COLM 2025; see our [Preprint](https://arxiv.org/pdf/2504.03770).
 
@@ -40,11 +40,6 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 
 **2025.04 -** We have a new paper using premise verification to prevent LLM from hallucinations; see our [Preprint](https://arxiv.org/pdf/2504.06438).
 
-**2025.04 -** We have a new paper on VLM jailbreak detection; see our [Preprint](https://arxiv.org/pdf/2504.03770).
-
-**2025.03 -** We have a new paper aiming for secured on-device OOD detetion; see our [Preprint](https://arxiv.org/pdf/2503.06166).
-
-**2025.03 -** We have a new paper tackling VLM hallucination from a causal prospective; see our [Preprint](https://arxiv.org/pdf/2503.06169).
 
 **2025.03 -** We have a new paper for decoupled multimodal representation learning; see our [Preprint](https://arxiv.org/pdf/2503.11892).
 
@@ -74,7 +69,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 <b>Research Scientist Intern, Adobe. </b>
 
 <div style="text-align: right;">
-<b>05/2025-present</b>
+<b>05/2025-08/2025</b>
 <br/>
 San Jose, CA
 </div>
