@@ -66,17 +66,6 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 
 # Work Experiences
 <span class='anchor' id='work-experiences'></span>
-<b>Research Scientist Intern, Adobe. </b>
-
-<div style="text-align: right;">
-<b>05/2025-08/2025</b>
-<br/>
-San Jose, CA
-</div>
-
----
-
-<span class='anchor' id='work-experiences'></span>
 <b>Research Assistant, FORTIS, USC. </b>
 
 <div style="text-align: right;">
@@ -85,6 +74,16 @@ San Jose, CA
 Prof. Yue Zhao
 </div>
 
+---
+
+<span class='anchor' id='work-experiences'></span>
+<b>Research Scientist Intern, Adobe. </b>
+
+<div style="text-align: right;">
+<b>05/2025-08/2025</b>
+<br/>
+San Jose, CA
+</div>
 
 
 <!-- Mainly focus on multimodal understanding and information retrieval. -->
