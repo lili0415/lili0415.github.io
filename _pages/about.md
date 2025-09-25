@@ -26,7 +26,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 # News
 <span class='anchor' id='news'></span>
 
-**2025.09 -** I am being awarded the [Amazon ML Fellowship (2025–2026)](https://trustedai.usc.edu/about).
+**2025.09 -** I am awarded the [Amazon ML Fellowship (2025–2026)](https://trustedai.usc.edu/about).
 
 **2025.08 -** Our paper "Treble Counterfactual VLMs: A Causal Approach to Hallucination" is accepted as a Findings paper by EMNLP 2025.
 
