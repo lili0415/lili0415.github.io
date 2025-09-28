@@ -26,7 +26,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 # News
 <span class='anchor' id='news'></span>
 
-**2025.09 -** I am awarded the [Amazon ML Fellowship (2025–2026)](https://trustedai.usc.edu/about).
+**2025.09 -** I am awarded the [Amazon PhD Fellowship (2025–2026)](https://trustedai.usc.edu/about).
 
 **2025.08 -** Our paper "Treble Counterfactual VLMs: A Causal Approach to Hallucination" is accepted as a Findings paper by EMNLP 2025.
 
@@ -79,7 +79,7 @@ Prof. Yue Zhao
 ---
 
 <span class='anchor' id='work-experiences'></span>
-<b>Research Scientist Intern, Adobe. </b>
+<b>Research Scientist Intern, Adobe Research. </b>
 
 <div style="text-align: right;">
 <b>05/2025-08/2025</b>
@@ -401,7 +401,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
 # Honors and Awards
 <span class='anchor' id='honors-and-awards'></span>
-Amazon ML Fellowship 2025.
+Amazon PhD Fellowship 2025.
 
 Capital One Fellowship 2025.
 
