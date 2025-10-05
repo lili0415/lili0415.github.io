@@ -411,9 +411,11 @@ AAAI 2024 Student Scholarship.
 
 # Services
 <span class='anchor' id='services'></span>
+Program Committee Member of AAAI (2026).
+
 Program Committee Member of ICML (2025).
 
-Program Committee Member of ICLR (2025).
+Program Committee Member of ICLR (2025, 2026).
 
 Program Committee Member of ICCV (2025).
 
@@ -421,7 +423,7 @@ Program Committee Member of COLM (2025).
 
 Program Committee Member of ICASSP (2025).
 
-Program Committee Member of KDD (2025).
+Program Committee Member of KDD (2025, 2026).
 
 Program Committee Member of IJCNN (2025).
 
@@ -430,10 +432,6 @@ Program Committee Member of ACM MM (2024).
 Program Committee Member of ECCV (2024).
 
 Program Committee Member of ACL ARR (2024, 2025).
-
-Program Committee Member of ACM MM MMGR Workshop (2023, 2024).
-
-Program Committee Member of CVPR TMM-OpenWorld Workshop (2025).
 
 Journal Reviewer for IEEE Transactions on Neural Networks and Learning Systems.
 
