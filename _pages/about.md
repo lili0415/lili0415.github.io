@@ -30,38 +30,17 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 
 **2025.08 -** Our paper "Treble Counterfactual VLMs: A Causal Approach to Hallucination" is accepted as a Findings paper by EMNLP 2025.
 
-**2025.06 -** Our paper "JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model" is accepted by COLM 2025; see our [Preprint](https://arxiv.org/pdf/2504.03770).
-
 **2025.06 -** Our paper "Secure On-Device Video OOD Detection Without Backpropagation" is accepted by ICCV 2025.
-
-**2025.05 -** We have a new paper benchmarking personalized conversation; see our [Preprint](https://arxiv.org/pdf/2505.14106).
-
-**2025.05 -** Our paper "AD-LLM: Benchmarking Large Language Models for Anomaly Detection" is accepted as Findings by the ACL 2025; see our [Preprint](https://arxiv.org/abs/2412.11142).
 
 **2025.05 -** I will join Adobe as a Research Scientist Intern this summer 2025. Hope to have a great summer life in San Jose!
 
-**2025.04 -** We have a new paper using premise verification to prevent LLM from hallucinations; see our [Preprint](https://arxiv.org/pdf/2504.06438).
-
-
-**2025.03 -** We have a new paper for decoupled multimodal representation learning; see our [Preprint](https://arxiv.org/pdf/2503.11892).
-
 **2025.02 -** Our paper "DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection" is accepted as a Highlight Paper by the CVPR 2025.
 
-**2025.01 -** Our paper "Generalized Video Moment Retrieval" is accepted by the ICLR 2025. 
-
-**2025.01 -** Our paper "PyOD 2: A Python Library for Outlier Detection with LLM-powered Model Selection" is accepted by the WebConf 2025 Demo Track.
-
 **2024.11 -** Our paper "Backpropagation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration" is accepted by ACM Transactions on Multimedia Computing Communications and Applications.
-
-**2024.10 -** Our paper "Towards Complex-query Referring Image Segmentation: A Novel Benchmark" is accepted by ACM Transactions on Multimedia Computing Communications and Applications.
-
-**2024.10 -** We have a new paper on concept-based zero-shot OOD detection; see our [Preprint](https://arxiv.org/pdf/2411.13578).
 
 **2024.08.22 -** Start my PhD journey at USC.
 
 **2024.07.31 -** My last day at S-Lab NTU and in Singapore.
-
-**2024.7 -** We have a new paper on ranked video moment retrieval; see our [Preprint](https://arxiv.org/pdf/2407.06597).
 
 **2024.02 -** Start to working as a research associate at S-Lab NTU.
 
