@@ -380,9 +380,9 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
 # Honors and Awards
 <span class='anchor' id='honors-and-awards'></span>
-Amazon PhD Fellowship 2025.
+Amazon PhD Fellowship 2025-2026.
 
-Capital One Fellowship 2025.
+Capital One Fellowship 2024-2025.
 
 ICSE 2022 Distinguished Paper Award Nomination.
 
