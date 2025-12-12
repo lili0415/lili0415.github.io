@@ -385,7 +385,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9793971" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">On the Importance of Building High-quality Training Datasets for Neural Code Search</span> 
       <br>Zhensu Sun, <b>Li Li</b>, Yan Liu, Xiaoning Du, Li Li
-    <br>ICSE 2022, <span style="color: red">(Nominated for ACM SIGSOFT Distinguished Paper Award, Top 19 papers)</span>&nbsp;&nbsp; 
+    <br>ICSE 2022 <span style="color: red">(Nominated for ACM SIGSOFT Distinguished Paper Award, Top 19 papers)</span>&nbsp;&nbsp; 
   </td> 
   </tr>
  </tbody>
