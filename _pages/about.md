@@ -137,7 +137,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2505.14106" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">A Personalized Conversational Benchmark: Towards Simulating Personalized Conversations</span> 
       <br><b>Li Li</b>, Peilin Cai, Ryan A. Rossi, Franck Dernoncourt, Branislav Kveton, Junda Wu, Tong Yu, Linxin Song, Tiankai Yang, Yuehan Qin, Nesreen K. Ahmed, Samyadeep Basu, Subhojyoti Mukherjee, Ruiyi Zhang, Zhengmian Hu, Bo Ni, Yuxiao Zhou, Zichao Wang, Yue Huang, Yu Wang, Xiangliang Zhang, Philip S. Yu, Xiyang Hu, Yue Zhao
-    <br>Multi-Turn Interactions in Large Language Models @ NeurIPS 2025 <span style="color: red">(Spotlight)</span>&nbsp;&nbsp; 
+    <br>Multi-Turn Interactions in Large Language Models @ NeurIPS 2025 <span style="color: red">(Spotlight, Top 5.6% of all submissions)</span>&nbsp;&nbsp; 
   </td> 
   </tr>
  </tbody>
@@ -277,7 +277,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Li_DPU_Dynamic_Prototype_Updating_for_Multimodal_Out-of-Distribution_Detection_CVPR_2025_paper.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection</span> 
       <br><b>Li Li</b>, Huixian Gong, Hao Dong, Tiankai Yang, Zhengzhong Tu, Yue Zhao
-    <br>CVPR 2025 <span style="color: red">(Highlight, Top 2.9% of all submissions)</span>&nbsp;&nbsp; | &nbsp;&nbsp; Uncertainty Quantification for Computer Vision @ CVPR 2025
+    <br>CVPR 2025 <span style="color: red">(Highlight, Top 3.7% of all submissions)</span>&nbsp;&nbsp; | &nbsp;&nbsp; Uncertainty Quantification for Computer Vision @ CVPR 2025
   </td> 
   </tr>
  </tbody>
