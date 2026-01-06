@@ -26,6 +26,8 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 # News
 <span class='anchor' id='news'></span>
 
+**2025.12 -** We have a new paper on scientific chart editing; see the [preprint](https://arxiv.org/abs/2512.00752).
+
 **2025.09 -** I am awarded the [Amazon PhD Fellowship (2025–2026)](https://trustedai.usc.edu/about).
 
 **2025.08 -** Our paper "Treble Counterfactual VLMs: A Causal Approach to Hallucination" is accepted as a Findings paper by EMNLP 2025.
