@@ -26,6 +26,8 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 # News
 <span class='anchor' id='news'></span>
 
+**2026.01 -** We have a new paper on LLM prompt injection; see the [preprint](https://arxiv.org/pdf/2601.07185).
+
 **2025.12 -** We have a new paper on scientific chart editing; see the [preprint](https://arxiv.org/abs/2512.00752).
 
 **2025.09 -** I am awarded the [Amazon PhD Fellowship (2025–2026)](https://trustedai.usc.edu/about).
@@ -118,6 +120,18 @@ Prof. Yan Liu
 # Selected Publications
 <span class='anchor' id='publications'></span>
 please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL4cAAAAJ&hl=zh-CN) page to check all my publications. (* Equal Contribution)
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2601.07185" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Defenses Against Prompt Attacks Learn Surface Heuristics</span> 
+      <br><b>Li Li</b>*, Chenxiao Yu*, Zhiyu Ni*, Hao Li, Charith Peris, Chaowei Xiao, Yue Zhao
+    <br>Preprint&nbsp;&nbsp; 
+  </td> 
+  </tr>
+ </tbody>
+</table>
 
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
