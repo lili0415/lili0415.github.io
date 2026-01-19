@@ -50,16 +50,6 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 
 
 # Work Experiences
-<span class='anchor' id='work-experiences'></span>
-<b>Research Assistant, FORTIS, USC. </b>
-
-<div style="text-align: right;">
-<b>08/2024-present</b>
-<br/>
-Prof. Yue Zhao
-</div>
-
----
 
 <span class='anchor' id='work-experiences'></span>
 <b>Research Scientist Intern, Adobe Research. </b>
@@ -82,34 +72,6 @@ San Jose, CA
 Prof. Aixin Sun
 </div>
 
-
-
-<!-- Mainly focus on multimodal understanding and information retrieval. -->
-
----
-
-
-<b>Research Intern, NExT++, NUS.  </b>
-         
-<div style="text-align: right;">
-<b>06/2022-02/2024</b>
-<br/>
-Prof. Tat-Seng Chua
-</div>
-
-
-
-<!-- Mainly focus on multimodal fusion and understanding. -->
-
----
-
-<!-- <b>Research Intern, School of Software Engineering, TongJi University.</b>
-
-<div style="text-align: right;">
-<b>08/2020-06/2022</b>
-<br/>
-Prof. Yan Liu
-</div> -->
 
 
 
