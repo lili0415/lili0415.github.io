@@ -29,7 +29,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 
 - **Trustworthy and Robust Multimodal Foundation Models**
   - Multimodal Out-of-Distribution Detection and Robust Representation Learning  
-    [[CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_DPU_Dynamic_Prototype_Updating_for_Multimodal_Out-of-Distribution_Detection_CVPR_2025_paper.pdf), [ICCV 2025](https://arxiv.org/pdf/2503.06166?), [WWW 2025](https://dl.acm.org/doi/abs/10.1145/3701716.3715196)]
+    [[CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_DPU_Dynamic_Prototype_Updating_for_Multimodal_Out-of-Distribution_Detection_CVPR_2025_paper.pdf),  [WWW 2025](https://dl.acm.org/doi/abs/10.1145/3701716.3715196)]
   - Efficient and Secure On-Device Multimodal Adaptation  
     [[ICCV 2025](https://arxiv.org/pdf/2503.06166?), [TOMM 2024](https://dl.acm.org/doi/abs/10.1145/3706422)]
   - Debiased and Structure-Aware Multimodal Representations  
