@@ -27,8 +27,6 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 # Research Interests
 <span class='anchor' id='research-interests'></span>
 
-My research interests primarily lie in:
-
 - **Trustworthy and Robust Multimodal Foundation Models**
   - Multimodal Out-of-Distribution Detection and Robust Representation Learning  
     [[CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_DPU_Dynamic_Prototype_Updating_for_Multimodal_Out-of-Distribution_Detection_CVPR_2025_paper.pdf), [ICCV 2025](https://arxiv.org/pdf/2503.06166?), [WWW 2025](https://dl.acm.org/doi/abs/10.1145/3701716.3715196)]
