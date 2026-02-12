@@ -23,6 +23,32 @@ Hi! I am Li (Shawn) Li, a PhD student at Thomas Lord Department of Computer Scie
 Before my PhD study in the USA, I spent wonderful years in Singapore and cooperated with great professors. I served as a research associate at **Nanyang Technological University**, working with Prof. [Aixin Sun](https://scholar.google.com/citations?user=wyKGVKUAAAAJ&hl=zh-CN). I earned my Master's degree from **National University of Singapore** in 2024, where I contributed as a research intern under the guidance of Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao) and Prof. [Roger Zimmermann](https://scholar.google.com/citations?user=IDREwXEAAAAJ&hl=zh-CN&oi=ao). Prior to that, I successfully completed my Bachelor's degree at **TongJi University**, China in 2022.
 My research interests are centered around multimodal learning, Out-of-Distribution detection, and information retrieval.
 
+
+# Research Interests
+<span class='anchor' id='research-interests'></span>
+
+My research interests primarily lie in:
+
+- **Trustworthy and Robust Multimodal Foundation Models**
+  - Multimodal Out-of-Distribution Detection  
+  - Robust Representation Learning under Distribution Shift  
+  - Efficient On-Device Adaptation  
+
+- **Secure and Reliable Large Language Models**
+  - Prompt Injection and Jailbreak Defense  
+  - Hallucination Mitigation via Causal and Retrieval-Based Reasoning  
+  - Reliable LLM Evaluation and Self-Verification  
+
+- **Agentic and Multi-Agent LLM Systems**
+  - Long-Term Memory and Planning  
+  - Role-Based Multi-Agent Coordination  
+  - Cost-Aware and Budget-Constrained Collaboration  
+
+- **Structure-Aware Multimodal Learning and Editing**
+  - Cross-Modal Alignment  
+  - Scientific Figure and Structured Visual Editing  
+  - Graph-based and Retrieval-Augmented Reasoning  
+
 # News
 <span class='anchor' id='news'></span>
 
