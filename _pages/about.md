@@ -30,24 +30,28 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 My research interests primarily lie in:
 
 - **Trustworthy and Robust Multimodal Foundation Models**
-  - Multimodal Out-of-Distribution Detection  
-  - Robust Representation Learning under Distribution Shift  
-  - Efficient On-Device Adaptation  
+  - Multimodal Out-of-Distribution Detection and Robust Representation Learning  
+    [[CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_DPU_Dynamic_Prototype_Updating_for_Multimodal_Out-of-Distribution_Detection_CVPR_2025_paper.pdf), [ICCV 2025](https://arxiv.org/pdf/2503.06166?), [WWW 2025](https://dl.acm.org/doi/abs/10.1145/3701716.3715196)]
+  - Efficient and Secure On-Device Multimodal Adaptation  
+    [[ICCV 2025](https://arxiv.org/pdf/2503.06166?), [TOMM 2024](https://dl.acm.org/doi/abs/10.1145/3706422)]
+  - Debiased and Structure-Aware Multimodal Representations  
+    [[AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/28098), [ICASSP 2024](https://ieeexplore.ieee.org/abstract/document/10447193/), [ACM MM 2023](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r4kIL4cAAAAJ&citation_for_view=r4kIL4cAAAAJ:RoXSNcbkSzsC)]
+  - Multimodal Retrieval, Video Understanding, and Graph-Based Reasoning  
+    [[ICLR 2025](https://openreview.net/pdf?id=qdOIkeZ5e4), [SIGIR-AP 2025](https://dl.acm.org/doi/abs/10.1145/3767695.3769516), [NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/407106f4b56040b2e8dcad75a6e461e5-Paper-Conference.pdf), [TOMM 2023](https://dl.acm.org/doi/abs/10.1145/3701733)]
 
 - **Secure and Reliable Large Language Models**
-  - Prompt Injection and Jailbreak Defense  
   - Hallucination Mitigation via Causal and Retrieval-Based Reasoning  
-  - Reliable LLM Evaluation and Self-Verification  
+    [[AAAI 2026](https://arxiv.org/pdf/2508.12495), [EMNLP 2025](https://arxiv.org/pdf/2503.06169)]
+  - Prompt Injection, Jailbreak Defense, and Robust Evaluation  
+    [[COLM 2025](https://arxiv.org/pdf/2504.03770), [arXiv 2026](https://arxiv.org/pdf/2601.07185), [arXiv 2026](https://arxiv.org/pdf/2602.00364)]
+  - LLM-based Anomaly Detection, OOD Detection, and Benchmarking  
+    [[ACL 2025](https://aclanthology.org/2025.findings-acl.79.pdf), [arXiv 2025](https://arxiv.org/abs/2511.17584)]
 
-- **Agentic and Multi-Agent LLM Systems**
-  - Long-Term Memory and Planning  
-  - Role-Based Multi-Agent Coordination  
-  - Cost-Aware and Budget-Constrained Collaboration  
-
-- **Structure-Aware Multimodal Learning and Editing**
-  - Cross-Modal Alignment  
-  - Scientific Figure and Structured Visual Editing  
-  - Graph-based and Retrieval-Augmented Reasoning  
+- **Agentic, Interactive, and Structure-Aware AI Systems**
+  - Agentic and Tool-Augmented LLM Systems  
+    [[ICLR 2026](https://arxiv.org/pdf/2508.03923?), [arXiv 2026](https://arxiv.org/abs/2602.09084)]
+  - Dataset Construction, Benchmarks, and Evaluation for Trustworthy AI  
+    [[ICLR 2026](https://arxiv.org/pdf/2512.00752), [MTI-LLM@NeurIPS 2025](https://arxiv.org/pdf/2505.14106), [ACL 2025](https://scholar.google.com/scholar?q=Shawn+Li+ACL+Findings+2025), [ICSE 2022](https://dl.acm.org/doi/abs/10.1145/3510003.3510160)]
 
 # News
 <span class='anchor' id='news'></span>
