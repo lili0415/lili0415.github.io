@@ -35,7 +35,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
   - Debiased and Structure-Aware Multimodal Representations  
     [[AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/28098), [ICASSP 2024](https://ieeexplore.ieee.org/abstract/document/10447193/), [ACM MM 2023](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r4kIL4cAAAAJ&citation_for_view=r4kIL4cAAAAJ:RoXSNcbkSzsC)]
   - Multimodal Retrieval, Video Understanding, and Graph-Based Reasoning  
-    [[ICLR 2025](https://openreview.net/pdf?id=qdOIkeZ5e4), [SIGIR-AP 2025](https://dl.acm.org/doi/abs/10.1145/3767695.3769516), [NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/407106f4b56040b2e8dcad75a6e461e5-Paper-Conference.pdf), [TOMM 2024](https://dl.acm.org/doi/abs/10.1145/3701733)]
+    [[ICLR 2025](https://openreview.net/pdf?id=qdOIkeZ5e4), [TMLR 2026](https://arxiv.org/pdf/2504.06438?), [SIGIR-AP 2025](https://dl.acm.org/doi/abs/10.1145/3767695.3769516), [NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/407106f4b56040b2e8dcad75a6e461e5-Paper-Conference.pdf), [TOMM 2024](https://dl.acm.org/doi/abs/10.1145/3701733)]
 
 - **Secure and Reliable Large Language Models**
   - Hallucination Mitigation via Causal and Retrieval-Based Reasoning  
