@@ -412,6 +412,8 @@ AAAI 2024 Student Scholarship.
 <span class='anchor' id='services'></span>
 Program Committee Member of CVPR (2026), AAAI (2026), ICML (2025, 2026), ICLR (2025, 2026), ICCV (2025), COLM (2025, 2026), ICASSP (2025), KDD (2025, 2026), IJCNN (2025), ACM MM (2024), ECCV (2024, 2026), ACL ARR (2024, 2025).
 
+Journal Reviewer for IEEE Transactions on Image Processing.
+
 Journal Reviewer for IEEE Transactions on Neural Networks and Learning Systems.
 
 Journal Reviewer for IEEE Transactions on Multimedia.
