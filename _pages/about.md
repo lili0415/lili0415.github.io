@@ -49,7 +49,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
   - Agentic and Tool-Augmented LLM Systems  
     [[ICLR 2026](https://arxiv.org/pdf/2508.03923?), [arXiv 2026](https://arxiv.org/abs/2602.09084)]
   - Dataset Construction, Benchmarks, and Evaluation for Trustworthy AI  
-    [[ICLR 2026](https://arxiv.org/pdf/2512.00752), [MTI-LLM@NeurIPS 2025](https://arxiv.org/pdf/2505.14106), [ACL 2025](https://scholar.google.com/scholar?q=Shawn+Li+ACL+Findings+2025), [ICSE 2022](https://dl.acm.org/doi/abs/10.1145/3510003.3510160)]
+    [[ICLR 2026](https://arxiv.org/pdf/2512.00752), [MTI-LLM@NeurIPS 2025](https://arxiv.org/pdf/2505.14106), [ACL 2025](https://aclanthology.org/2025.findings-acl.79.pdf), [ICSE 2022](https://dl.acm.org/doi/abs/10.1145/3510003.3510160)]
 
 # News
 <span class='anchor' id='news'></span>
