@@ -420,6 +420,8 @@ Journal Reviewer for IEEE Transactions on Multimedia.
 
 Journal Reviewer for IEEE Transactions on Circuits and Systems for Video Technology.
 
+Journal Reviewer for International Journal of Computer Vision.
+
 Student Volunteer at ACM Web Conference (2024).
 
 # Educations
