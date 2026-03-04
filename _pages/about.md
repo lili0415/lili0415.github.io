@@ -98,57 +98,107 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 # News
 <span class='anchor' id='news'></span>
 
-**2026.01 -** Our paper "Charts Are Not Images: On the Challenges of Scientific Chart Editing" is accepted by ICLR 2026.
+<div style="position:relative;padding-left:28px;margin:16px 0;">
+<div style="position:absolute;left:8px;top:6px;bottom:6px;width:2px;background:#e5e7eb;border-radius:1px;"></div>
 
-**2026.01 -** We have a new paper on LLM prompt injection; see the [preprint](https://arxiv.org/pdf/2601.07185).
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.01</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">Our paper "Charts Are Not Images: On the Challenges of Scientific Chart Editing" is accepted by <strong>ICLR 2026</strong>.</div>
+</div>
 
-**2025.09 -** I am awarded the [Amazon PhD Fellowship (2025–2026)](https://trustedai.usc.edu/about).
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.01</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">New paper on LLM prompt injection; see the <a href="https://arxiv.org/pdf/2601.07185">preprint</a>.</div>
+</div>
 
-**2025.08 -** Our paper "Treble Counterfactual VLMs: A Causal Approach to Hallucination" is accepted as a Findings paper by EMNLP 2025.
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#f59e0b;border:2px solid white;box-shadow:0 0 0 2px #f59e0b;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2025.09</span>&nbsp;<span style="background:#fef3c7;color:#92400e;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏆 Award</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">Awarded the <a href="https://trustedai.usc.edu/about"><strong>Amazon PhD Fellowship (2025–2026)</strong></a>.</div>
+</div>
 
-**2025.06 -** Our paper "Secure On-Device Video OOD Detection Without Backpropagation" is accepted by ICCV 2025.
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2025.08</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">"Treble Counterfactual VLMs: A Causal Approach to Hallucination" accepted as Findings paper by <strong>EMNLP 2025</strong>.</div>
+</div>
 
-**2025.05 -** I will join Adobe as a Research Scientist Intern this summer 2025. Hope to have a great summer life in San Jose!
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2025.06</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">"Secure On-Device Video OOD Detection Without Backpropagation" accepted by <strong>ICCV 2025</strong>.</div>
+</div>
 
-**2025.02 -** Our paper "DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection" is accepted as a Highlight Paper by the CVPR 2025.
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#22c55e;border:2px solid white;box-shadow:0 0 0 2px #22c55e;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2025.05</span>&nbsp;<span style="background:#dcfce7;color:#14532d;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">👔 Position</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">Joining <strong>Adobe Research</strong> as a Research Scientist Intern. Summer in San Jose!</div>
+</div>
 
-**2024.11 -** Our paper "Backpropagation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration" is accepted by ACM Transactions on Multimedia Computing Communications and Applications.
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2025.02</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span>&nbsp;<span style="background:#fee2e2;color:#991b1b;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">⭐ Highlight</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">"DPU: Dynamic Prototype Updating for Multimodal OOD Detection" accepted as a <strong>Highlight Paper (Top 3.7%)</strong> by CVPR 2025.</div>
+</div>
 
-**2024.08.22 -** Start my PhD journey at USC.
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2024.11</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">"Backpropagation-Free Multi-modal On-Device Model Adaptation" accepted by <strong>ACM Transactions on Multimedia</strong>.</div>
+</div>
 
-**2024.07.31 -** My last day at S-Lab NTU and in Singapore.
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#8b5cf6;border:2px solid white;box-shadow:0 0 0 2px #8b5cf6;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2024.08</span>&nbsp;<span style="background:#ede9fe;color:#4c1d95;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🎓 Milestone</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">Started PhD journey at <strong>USC</strong>.</div>
+</div>
 
-**2024.02 -** Start to working as a research associate at S-Lab NTU.
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#22c55e;border:2px solid white;box-shadow:0 0 0 2px #22c55e;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2024.02</span>&nbsp;<span style="background:#dcfce7;color:#14532d;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">👔 Position</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">Joined <strong>S-Lab, NTU</strong> as a Research Associate.</div>
+</div>
+
+</div>
 
 
 # Work Experiences
 
 <span class='anchor' id='work-experiences'></span>
-<b>Research Scientist Intern, Adobe Research. </b>
 
-<div style="text-align: right;">
-<b>05/2025-08/2025</b>
-<br/>
-San Jose, CA
+<div style="display:flex;flex-direction:column;gap:12px;margin:16px 0;">
+
+<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:8px;padding:14px 18px;">
+<div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:8px;">
+<div>
+<div style="font-weight:700;font-size:14px;color:#111827;">Research Scientist Intern</div>
+<div style="font-size:13px;color:#4b5563;margin-top:3px;">Adobe Research</div>
+</div>
+<div style="text-align:right;">
+<div style="font-size:12px;font-weight:600;color:#374151;">05/2025 – 08/2025</div>
+<div style="font-size:12px;color:#6b7280;margin-top:2px;">San Jose, CA</div>
+</div>
+</div>
 </div>
 
-
-<!-- Mainly focus on multimodal understanding and information retrieval. -->
-
----
-<b>Research Associate, S-Lab, NTU. </b>
-
-<div style="text-align: right;">
-<b>02/2024-08/2024</b>
-<br/>
-Prof. Aixin Sun
+<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:8px;padding:14px 18px;">
+<div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:8px;">
+<div>
+<div style="font-weight:700;font-size:14px;color:#111827;">Research Associate</div>
+<div style="font-size:13px;color:#4b5563;margin-top:3px;">S-Lab, Nanyang Technological University</div>
+<div style="font-size:12px;color:#6b7280;margin-top:2px;">Supervisor: Prof. Aixin Sun</div>
+</div>
+<div style="text-align:right;">
+<div style="font-size:12px;font-weight:600;color:#374151;">02/2024 – 08/2024</div>
+<div style="font-size:12px;color:#6b7280;margin-top:2px;">Singapore</div>
+</div>
+</div>
 </div>
 
+</div>
 
-
-
-<!-- Mainly focus on neural code search and neural code completion. -->
-         
 
 
 # Selected Publications
@@ -161,8 +211,8 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2601.07185" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">Defenses Against Prompt Attacks Learn Surface Heuristics</span> 
       <br><b>Li Li</b>*, Chenxiao Yu*, Zhiyu Ni*, Hao Li, Charith Peris, Chaowei Xiao, Yue Zhao
-    <br>Preprint&nbsp;&nbsp; 
-  </td> 
+    <br><span style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Preprint</span>&nbsp;&nbsp;
+  </td>
   </tr>
  </tbody>
 </table>
@@ -171,9 +221,9 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
   <tbody>
   <tr>
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/abs/2512.00752" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">Charts Are Not Images: On the Challenges of Scientific Chart Editing</span> 
+    <td><span class="title" style="FONT-WEIGHT: bold">Charts Are Not Images: On the Challenges of Scientific Chart Editing</span>
       <br><b>Li Li</b>, Ryan Rossi, Sungchul Kim, Sunav Choudhary, Franck Dernoncourt, Puneet Mathur, Zhengzhong Tu, Yue Zhao
-    <br>ICLR 2026&nbsp;&nbsp; 
+    <br><span style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">ICLR 2026</span>&nbsp;&nbsp;
   </td> 
   </tr>
  </tbody>
@@ -187,7 +237,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2505.14106" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">A Personalized Conversational Benchmark: Towards Simulating Personalized Conversations</span> 
       <br><b>Li Li</b>, Peilin Cai, Ryan A. Rossi, Franck Dernoncourt, Branislav Kveton, Junda Wu, Tong Yu, Linxin Song, Tiankai Yang, Yuehan Qin, Nesreen K. Ahmed, Samyadeep Basu, Subhojyoti Mukherjee, Ruiyi Zhang, Zhengmian Hu, Bo Ni, Yuxiao Zhou, Zichao Wang, Yue Huang, Yu Wang, Xiangliang Zhang, Philip S. Yu, Xiyang Hu, Yue Zhao
-    <br>Multi-Turn Interactions in Large Language Models @ NeurIPS 2025 <span style="color: red">(Spotlight, Top 5.6% of all submissions)</span>&nbsp;&nbsp; 
+    <br><span style="background:#fef3c7;color:#92400e;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">MTI-LLM @ NeurIPS 2025</span> <span style="background:#fde68a;color:#92400e;padding:2px 6px;border-radius:4px;font-size:10px;font-weight:700;">🏆 Spotlight Top 5.6%</span>&nbsp;&nbsp;
   </td> 
   </tr>
  </tbody>
@@ -217,7 +267,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2503.06169" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">Treble Counterfactual VLMs: A Causal Approach to Hallucination</span> 
       <br><b>Li Li</b>, Jiashu Qu, Yuxiao Zhou, Yuehan Qin, Tiankai Yang, Yue Zhao
-    <br>EMNLP 2025 Findings&nbsp;&nbsp; 
+    <br><span style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">EMNLP 2025 Findings</span>&nbsp;&nbsp;
   </td> 
   </tr>
  </tbody>
@@ -241,7 +291,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2503.06166" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">Secure On-Device Video OOD Detection Without Backpropagation</span> 
       <br><b>Li Li</b>, Peilin Cai, Yuxiao Zhou, Zhiyu Ni, Renjie Liang, You Qin, Yi Nian, Zhengzhong Tu, Xiyang Hu, Yue Zhao
-    <br>ICCV 2025&nbsp;&nbsp; 
+    <br><span style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">ICCV 2025</span>&nbsp;&nbsp;
   </td> 
   </tr>
  </tbody>
@@ -327,7 +377,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Li_DPU_Dynamic_Prototype_Updating_for_Multimodal_Out-of-Distribution_Detection_CVPR_2025_paper.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection</span> 
       <br><b>Li Li</b>, Huixian Gong, Hao Dong, Tiankai Yang, Zhengzhong Tu, Yue Zhao
-    <br>CVPR 2025 <span style="color: red">(Highlight, Top 3.7% of all submissions)</span>&nbsp;&nbsp; | &nbsp;&nbsp; Uncertainty Quantification for Computer Vision @ CVPR 2025
+    <br><span style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">CVPR 2025</span> <span style="background:#fee2e2;color:#991b1b;padding:2px 6px;border-radius:4px;font-size:10px;font-weight:700;">⭐ Highlight Top 3.7%</span>&nbsp;&nbsp;|&nbsp;&nbsp;<span style="background:#f3f4f6;color:#4b5563;padding:2px 6px;border-radius:4px;font-size:10px;">UQ4CV @ CVPR 2025</span>
   </td> 
   </tr>
  </tbody>
@@ -363,7 +413,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://dl.acm.org/doi/abs/10.1145/3706422" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">Backpropagation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration</span> 
       <br><b>Li Li</b>*, Wei Ji*, Zheqi Lv*, Wenqiao Zhang, Mengze Li, Zhen Wan, Wenqiang Lei, Roger Zimmermann
-    <br>ACM Transactions on Multimedia Computing Communications and Applications&nbsp;&nbsp; 
+    <br><span style="background:#d1fae5;color:#065f46;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">TOMM (ACM TMMCA)</span>&nbsp;&nbsp;
   </td> 
   </tr>
  </tbody>
@@ -387,8 +437,8 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://ojs.aaai.org/index.php/AAAI/article/download/28098/28201" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">Panoptic Scene Graph Generation with Semantics-prototype Learning</span> 
       <br><b>Li Li</b>, Wei Ji, Yiming Wu, Mengze Li, You Qin, Lina Wei, Roger Zimmermann
-    <br>AAAI 2024&nbsp;&nbsp; 
-  </td> 
+    <br><span style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">AAAI 2024</span>&nbsp;&nbsp;
+  </td>
   </tr>
  </tbody>
 </table>
@@ -397,9 +447,9 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
   <tbody>
   <tr>
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447193" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">Domain-wise Invariant Learning for Panoptic Scene Graph Generation</span> 
+    <td><span class="title" style="FONT-WEIGHT: bold">Domain-wise Invariant Learning for Panoptic Scene Graph Generation</span>
       <br><b>Li Li</b>, You Qin, Wei Ji, Yuxiao Zhou, Roger Zimmermann
-    <br>ICASSP 2024&nbsp;&nbsp; 
+    <br><span style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">ICASSP 2024</span>&nbsp;&nbsp;
   </td> 
   </tr>
  </tbody>
@@ -411,7 +461,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3611847" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">Biased-Predicate Annotation Identification via Unbiased Visual Predicate Representation</span> 
       <br><b>Li Li</b>*, Chenwei Wang*, You Qin, Wei Ji, Renjie Liang
-    <br>ACM MM 2023&nbsp;&nbsp; 
+    <br><span style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">ACM MM 2023</span>&nbsp;&nbsp;
   </td> 
   </tr>
  </tbody>
@@ -435,7 +485,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9793971" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">On the Importance of Building High-quality Training Datasets for Neural Code Search</span> 
       <br>Zhensu Sun, <b>Li Li</b>, Yan Liu, Xiaoning Du, Li Li
-    <br>ICSE 2022 <span style="color: red">(Nominated for ACM SIGSOFT Distinguished Paper Award, Top 19 papers)</span>&nbsp;&nbsp; 
+    <br><span style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">ICSE 2022</span> <span style="background:#fee2e2;color:#991b1b;padding:2px 6px;border-radius:4px;font-size:10px;font-weight:700;">🌟 Distinguished Paper Nomination</span>&nbsp;&nbsp;
   </td> 
   </tr>
  </tbody>
@@ -444,29 +494,65 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
 # Honors and Awards
 <span class='anchor' id='honors-and-awards'></span>
-Amazon PhD Fellowship 2025-2026.
 
-Capital One Fellowship 2024-2025.
+<div style="display:flex;flex-direction:column;gap:10px;margin:16px 0;">
 
-ICSE 2022 Distinguished Paper Award Nomination.
+<div style="background:#fffbeb;border-left:4px solid #f59e0b;border-radius:6px;padding:12px 16px;display:flex;align-items:center;gap:12px;">
+<span style="font-size:20px;line-height:1;">🏆</span>
+<span style="font-size:13px;color:#374151;font-weight:500;">Amazon PhD Fellowship 2025–2026</span>
+</div>
 
-AAAI 2024 Student Scholarship.
+<div style="background:#f9fafb;border-left:4px solid #9ca3af;border-radius:6px;padding:12px 16px;display:flex;align-items:center;gap:12px;">
+<span style="font-size:20px;line-height:1;">🎖️</span>
+<span style="font-size:13px;color:#374151;font-weight:500;">Capital One Fellowship 2024–2025</span>
+</div>
+
+<div style="background:#f9fafb;border-left:4px solid #9ca3af;border-radius:6px;padding:12px 16px;display:flex;align-items:center;gap:12px;">
+<span style="font-size:20px;line-height:1;">🌟</span>
+<span style="font-size:13px;color:#374151;font-weight:500;">ICSE 2022 Distinguished Paper Award Nomination (Top 19 papers)</span>
+</div>
+
+<div style="background:#f9fafb;border-left:4px solid #9ca3af;border-radius:6px;padding:12px 16px;display:flex;align-items:center;gap:12px;">
+<span style="font-size:20px;line-height:1;">🎓</span>
+<span style="font-size:13px;color:#374151;font-weight:500;">AAAI 2024 Student Scholarship</span>
+</div>
+
+</div>
 
 # Services
 <span class='anchor' id='services'></span>
-Program Committee Member of CVPR (2026), AAAI (2026), ICML (2025, 2026), ICLR (2025, 2026), ICCV (2025), COLM (2025, 2026), ICASSP (2025), KDD (2025, 2026), IJCNN (2025), ACM MM (2024), ECCV (2024, 2026), ACL ARR (2024, 2025).
 
-Journal Reviewer for IEEE Transactions on Image Processing.
+<div style="margin:16px 0;">
 
-Journal Reviewer for IEEE Transactions on Neural Networks and Learning Systems.
+<div style="font-size:13px;font-weight:700;color:#374151;margin-bottom:8px;">Program Committee / Reviewer</div>
+<div style="display:flex;flex-direction:column;gap:6px;">
+<div style="display:flex;align-items:baseline;gap:12px;">
+<span style="font-size:12px;font-weight:700;color:#9ca3af;min-width:34px;">2026</span>
+<span style="font-size:13px;color:#374151;">CVPR, AAAI, ICML, ICLR, COLM, KDD, ECCV</span>
+</div>
+<div style="display:flex;align-items:baseline;gap:12px;">
+<span style="font-size:12px;font-weight:700;color:#9ca3af;min-width:34px;">2025</span>
+<span style="font-size:13px;color:#374151;">ICML, ICLR, ICCV, COLM, ICASSP, KDD, IJCNN, ACL ARR</span>
+</div>
+<div style="display:flex;align-items:baseline;gap:12px;">
+<span style="font-size:12px;font-weight:700;color:#9ca3af;min-width:34px;">2024</span>
+<span style="font-size:13px;color:#374151;">ACM MM, ECCV, ACL ARR</span>
+</div>
+</div>
 
-Journal Reviewer for IEEE Transactions on Multimedia.
+<div style="font-size:13px;font-weight:700;color:#374151;margin:16px 0 8px 0;">Journal Reviewer</div>
+<div style="display:flex;flex-direction:column;gap:4px;font-size:13px;color:#374151;">
+<div>IEEE Transactions on Image Processing</div>
+<div>IEEE Transactions on Neural Networks and Learning Systems</div>
+<div>IEEE Transactions on Multimedia</div>
+<div>IEEE Transactions on Circuits and Systems for Video Technology</div>
+<div>International Journal of Computer Vision</div>
+</div>
 
-Journal Reviewer for IEEE Transactions on Circuits and Systems for Video Technology.
+<div style="font-size:13px;font-weight:700;color:#374151;margin:16px 0 8px 0;">Other</div>
+<div style="font-size:13px;color:#374151;">Student Volunteer at ACM Web Conference (2024)</div>
 
-Journal Reviewer for International Journal of Computer Vision.
-
-Student Volunteer at ACM Web Conference (2024).
+</div>
 
 # Educations
 <span class='anchor' id='educations'></span>
