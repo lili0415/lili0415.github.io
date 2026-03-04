@@ -27,29 +27,73 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 # Research Interests
 <span class='anchor' id='research-interests'></span>
 
-- **Trustworthy and Robust Multimodal Foundation Models**
-  - Multimodal Out-of-Distribution Detection and Robust Representation Learning  
-    [[CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_DPU_Dynamic_Prototype_Updating_for_Multimodal_Out-of-Distribution_Detection_CVPR_2025_paper.pdf),  [WWW 2025](https://dl.acm.org/doi/abs/10.1145/3701716.3715196)]
-  - Efficient and Secure On-Device Multimodal Adaptation  
-    [[ICCV 2025](https://arxiv.org/pdf/2503.06166?), [TOMM 2024](https://dl.acm.org/doi/abs/10.1145/3706422)]
-  - Debiased and Structure-Aware Multimodal Representations  
-    [[AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/28098), [ICASSP 2024](https://ieeexplore.ieee.org/abstract/document/10447193/), [ACM MM 2023](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r4kIL4cAAAAJ&citation_for_view=r4kIL4cAAAAJ:RoXSNcbkSzsC)]
-  - Multimodal Retrieval, Video Understanding, and Graph-Based Reasoning  
-    [[TMLR 2026](https://arxiv.org/pdf/2504.06438?), [ICLR 2025](https://openreview.net/pdf?id=qdOIkeZ5e4), [SIGIR-AP 2025](https://dl.acm.org/doi/abs/10.1145/3767695.3769516), [NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/407106f4b56040b2e8dcad75a6e461e5-Paper-Conference.pdf), [TOMM 2024](https://dl.acm.org/doi/abs/10.1145/3701733)]
+<div style="display:flex;flex-direction:column;gap:14px;margin:16px 0;">
 
-- **Secure and Reliable Large Language Models**
-  - Hallucination Mitigation via Causal and Retrieval-Based Reasoning  
-    [[AAAI 2026](https://arxiv.org/pdf/2508.12495), [EMNLP 2025](https://arxiv.org/pdf/2503.06169)]
-  - Prompt Injection, Jailbreak Defense, and Robust Evaluation  
-    [[COLM 2025](https://arxiv.org/pdf/2504.03770), [arXiv 2026](https://arxiv.org/pdf/2601.07185), [arXiv 2026](https://arxiv.org/pdf/2602.00364)]
-  - LLM-based Anomaly Detection, OOD Detection, and Benchmarking  
-    [[ACL 2025](https://aclanthology.org/2025.findings-acl.79.pdf), [arXiv 2025](https://arxiv.org/abs/2511.17584)]
+<div style="background:#eff6ff;border-left:4px solid #3b82f6;border-radius:8px;padding:16px 20px;">
+<p style="font-size:15px;font-weight:700;color:#1e3a8a;margin:0 0 12px 0;">🛡️ Trustworthy and Robust Multimodal Foundation Models</p>
+<div style="margin-bottom:8px;">
+<span style="font-size:13px;color:#374151;font-weight:500;">Multimodal OOD Detection &amp; Robust Representation Learning</span><br>
+<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Li_DPU_Dynamic_Prototype_Updating_for_Multimodal_Out-of-Distribution_Detection_CVPR_2025_paper.pdf" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">⭐ CVPR 2025 Highlight</a>
+<a href="https://dl.acm.org/doi/abs/10.1145/3701716.3715196" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">WWW 2025</a>
+</div>
+<div style="margin-bottom:8px;">
+<span style="font-size:13px;color:#374151;font-weight:500;">Efficient &amp; Secure On-Device Multimodal Adaptation</span><br>
+<a href="https://arxiv.org/pdf/2503.06166" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ICCV 2025</a>
+<a href="https://dl.acm.org/doi/abs/10.1145/3706422" target="_blank" style="background:#d1fae5;color:#065f46;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">TOMM 2024</a>
+</div>
+<div style="margin-bottom:8px;">
+<span style="font-size:13px;color:#374151;font-weight:500;">Debiased &amp; Structure-Aware Multimodal Representations</span><br>
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/28098" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">AAAI 2024</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/10447193/" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ICASSP 2024</a>
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r4kIL4cAAAAJ&citation_for_view=r4kIL4cAAAAJ:RoXSNcbkSzsC" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ACM MM 2023</a>
+</div>
+<div style="margin-bottom:0;">
+<span style="font-size:13px;color:#374151;font-weight:500;">Multimodal Retrieval, Video Understanding &amp; Graph-Based Reasoning</span><br>
+<a href="https://arxiv.org/pdf/2504.06438" target="_blank" style="background:#d1fae5;color:#065f46;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">TMLR 2026</a>
+<a href="https://openreview.net/pdf?id=qdOIkeZ5e4" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ICLR 2025</a>
+<a href="https://dl.acm.org/doi/abs/10.1145/3767695.3769516" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">SIGIR-AP 2025</a>
+<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/407106f4b56040b2e8dcad75a6e461e5-Paper-Conference.pdf" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">NeurIPS 2023</a>
+<a href="https://dl.acm.org/doi/abs/10.1145/3701733" target="_blank" style="background:#d1fae5;color:#065f46;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">TOMM 2024</a>
+</div>
+</div>
 
-- **Agentic, Interactive, and Structure-Aware AI Systems**
-  - Agentic and Tool-Augmented LLM Systems  
-    [[ICLR 2026](https://arxiv.org/pdf/2508.03923?), [arXiv 2026](https://arxiv.org/abs/2602.09084)]
-  - Dataset Construction, Benchmarks, and Evaluation for Trustworthy AI  
-    [[ICLR 2026](https://arxiv.org/pdf/2512.00752), [MTI-LLM@NeurIPS 2025](https://arxiv.org/pdf/2505.14106), [ACL 2025](https://aclanthology.org/2025.findings-acl.79.pdf), [ICSE 2022](https://dl.acm.org/doi/abs/10.1145/3510003.3510160)]
+<div style="background:#faf5ff;border-left:4px solid #a855f7;border-radius:8px;padding:16px 20px;">
+<p style="font-size:15px;font-weight:700;color:#581c87;margin:0 0 12px 0;">🤖 Secure and Reliable Large Language Models</p>
+<div style="margin-bottom:8px;">
+<span style="font-size:13px;color:#374151;font-weight:500;">Hallucination Mitigation via Causal &amp; Retrieval-Based Reasoning</span><br>
+<a href="https://arxiv.org/pdf/2508.12495" target="_blank" style="background:#e9d5ff;color:#6b21a8;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">AAAI 2026</a>
+<a href="https://arxiv.org/pdf/2503.06169" target="_blank" style="background:#e9d5ff;color:#6b21a8;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">EMNLP 2025</a>
+</div>
+<div style="margin-bottom:8px;">
+<span style="font-size:13px;color:#374151;font-weight:500;">Prompt Injection, Jailbreak Defense &amp; Robust Evaluation</span><br>
+<a href="https://arxiv.org/pdf/2504.03770" target="_blank" style="background:#e9d5ff;color:#6b21a8;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">COLM 2025</a>
+<a href="https://arxiv.org/pdf/2601.07185" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">arXiv 2026</a>
+<a href="https://arxiv.org/pdf/2602.00364" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">arXiv 2026</a>
+</div>
+<div style="margin-bottom:0;">
+<span style="font-size:13px;color:#374151;font-weight:500;">LLM-based Anomaly Detection, OOD Detection &amp; Benchmarking</span><br>
+<a href="https://aclanthology.org/2025.findings-acl.79.pdf" target="_blank" style="background:#e9d5ff;color:#6b21a8;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ACL 2025</a>
+<a href="https://arxiv.org/abs/2511.17584" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">arXiv 2025</a>
+</div>
+</div>
+
+<div style="background:#f0fdf4;border-left:4px solid #22c55e;border-radius:8px;padding:16px 20px;">
+<p style="font-size:15px;font-weight:700;color:#14532d;margin:0 0 12px 0;">⚙️ Agentic, Interactive &amp; Structure-Aware AI Systems</p>
+<div style="margin-bottom:8px;">
+<span style="font-size:13px;color:#374151;font-weight:500;">Agentic &amp; Tool-Augmented LLM Systems</span><br>
+<a href="https://arxiv.org/pdf/2508.03923" target="_blank" style="background:#bbf7d0;color:#14532d;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ICLR 2026</a>
+<a href="https://arxiv.org/abs/2602.09084" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">arXiv 2026</a>
+</div>
+<div style="margin-bottom:0;">
+<span style="font-size:13px;color:#374151;font-weight:500;">Dataset Construction, Benchmarks &amp; Evaluation for Trustworthy AI</span><br>
+<a href="https://arxiv.org/pdf/2512.00752" target="_blank" style="background:#bbf7d0;color:#14532d;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ICLR 2026</a>
+<a href="https://arxiv.org/pdf/2505.14106" target="_blank" style="background:#fef3c7;color:#92400e;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">MTI-LLM@NeurIPS 2025 🏆</a>
+<a href="https://aclanthology.org/2025.findings-acl.79.pdf" target="_blank" style="background:#bbf7d0;color:#14532d;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ACL 2025</a>
+<a href="https://dl.acm.org/doi/abs/10.1145/3510003.3510160" target="_blank" style="background:#bbf7d0;color:#14532d;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ICSE 2022</a>
+</div>
+</div>
+
+</div>
 
 # News
 <span class='anchor' id='news'></span>
