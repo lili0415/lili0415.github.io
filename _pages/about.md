@@ -116,7 +116,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#f59e0b;border:2px solid white;box-shadow:0 0 0 2px #f59e0b;"></div>
 <div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2025.09</span>&nbsp;<span style="background:#fef3c7;color:#92400e;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏆 Award</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;">Awarded the <a href="https://trustedai.usc.edu/about"><strong>Amazon PhD Fellowship (2025–2026)</strong></a>.</div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">Awarded the <a href="https://usc.webflow.io/center-faculty/li-shawn-li"><strong>Amazon PhD Fellowship (2025–2026)</strong></a>.</div>
 </div>
 
 <div style="position:relative;margin-bottom:14px;">
