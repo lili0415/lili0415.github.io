@@ -146,7 +146,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
 <div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2024.11</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;">"Backpropagation-Free Multi-modal On-Device Model Adaptation" accepted by <strong>ACM Transactions on Multimedia</strong>.</div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">"Backpropagation-Free Multi-modal On-Device Model Adaptation" accepted by <strong>ACM Transactions on Multimedia Computing, Communications and Applications</strong>.</div>
 </div>
 
 <div style="position:relative;margin-bottom:14px;">
