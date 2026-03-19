@@ -23,6 +23,11 @@ Hi! I am Li (Shawn) Li, a PhD student at Thomas Lord Department of Computer Scie
 Before my PhD study in the USA, I spent wonderful years in Singapore and cooperated with great professors. I served as a research associate at **Nanyang Technological University**, working with Prof. [Aixin Sun](https://scholar.google.com/citations?user=wyKGVKUAAAAJ&hl=zh-CN). I earned my Master's degree from **National University of Singapore** in 2024, where I contributed as a research intern under the guidance of Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao) and Prof. [Roger Zimmermann](https://scholar.google.com/citations?user=IDREwXEAAAAJ&hl=zh-CN&oi=ao). Prior to that, I successfully completed my Bachelor's degree at **TongJi University**, China in 2022.
 My research interests are centered around multimodal learning, Out-of-Distribution detection, and information retrieval.
 
+<div style="margin-top:12px;display:flex;flex-wrap:wrap;gap:8px;">
+<span style="background:#fffbeb;border:1px solid #f59e0b;color:#92400e;padding:5px 12px;border-radius:20px;font-size:12px;font-weight:600;">🏆 Amazon PhD Fellow 2025–26</span>
+<span style="background:#f0f9ff;border:1px solid #7dd3fc;color:#075985;padding:5px 12px;border-radius:20px;font-size:12px;font-weight:600;">🏅 Capital One Fellow 2024–25</span>
+</div>
+
 
 # Research Interests
 <span class='anchor' id='research-interests'></span>
