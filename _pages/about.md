@@ -18,7 +18,7 @@ redirect_from:
 # About Me
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Li (Shawn) Li, a PhD student at Thomas Lord Department of Computer Science, **University of Southern California**, supervised by Prof. [Yue Zhao](https://scholar.google.com/citations?user=zoGDYsoAAAAJ&hl=en).
+Hi! I am Li (Shawn) Li, a PhD candidate at Thomas Lord Department of Computer Science, **University of Southern California**, supervised by Prof. [Yue Zhao](https://scholar.google.com/citations?user=zoGDYsoAAAAJ&hl=en).
 
 Before my PhD study in the USA, I spent wonderful years in Singapore and cooperated with great professors. I served as a research associate at **Nanyang Technological University**, working with Prof. [Aixin Sun](https://scholar.google.com/citations?user=wyKGVKUAAAAJ&hl=zh-CN). I earned my Master's degree from **National University of Singapore** in 2024, where I contributed as a research intern under the guidance of Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao) and Prof. [Roger Zimmermann](https://scholar.google.com/citations?user=IDREwXEAAAAJ&hl=zh-CN&oi=ao). Prior to that, I successfully completed my Bachelor's degree at **TongJi University**, China in 2022.
 My research interests are centered around multimodal learning, Out-of-Distribution detection, and information retrieval.
@@ -106,6 +106,12 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 
 <div style="position:relative;padding-left:28px;margin:16px 0;">
 <div style="position:absolute;left:8px;top:6px;bottom:6px;width:2px;background:#e5e7eb;border-radius:1px;"></div>
+
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#10b981;border:2px solid white;box-shadow:0 0 0 2px #10b981;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.03</span>&nbsp;<span style="background:#d1fae5;color:#065f46;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🎓 Milestone</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">Passed the PhD Qualifying Exam and officially became a <strong>PhD candidate</strong>.</div>
+</div>
 
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
