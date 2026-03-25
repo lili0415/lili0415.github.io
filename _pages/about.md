@@ -228,7 +228,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
   <tr>
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/abs/2603.19423" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">The Autonomy Tax: Defense Training Breaks LLM Agents</span>
-      <br><b>Shawn Li</b>, Yue Zhao
+      <br><b>Li Li</b>, Yue Zhao
     <br><span style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Preprint</span>&nbsp;&nbsp;
   </td>
   </tr>
