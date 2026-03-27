@@ -132,6 +132,12 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 </div>
 
 <div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2025.10</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span>&nbsp;<span style="background:#fee2e2;color:#991b1b;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">⭐ Spotlight</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">"A Personalized Conversational Benchmark: Towards Simulating Personalized Conversations" accepted by <strong>MTI-LLM @ NeurIPS 2025</strong> as a <strong>Spotlight paper (Top 5.6%)</strong>.</div>
+</div>
+
+<div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#f59e0b;border:2px solid white;box-shadow:0 0 0 2px #f59e0b;"></div>
 <div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2025.09</span>&nbsp;<span style="background:#fef3c7;color:#92400e;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🏆 Award</span></div>
 <div style="margin-top:3px;font-size:13px;color:#374151;">Awarded the <a href="https://usc.webflow.io/center-faculty/li-shawn-li"><strong>Amazon PhD Fellowship (2025–2026)</strong></a>.</div>
