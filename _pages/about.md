@@ -72,7 +72,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 <div style="margin-bottom:8px;">
 <span style="font-size:13px;color:#374151;font-weight:500;">Prompt Injection, Jailbreak Defense &amp; Robust Evaluation</span><br>
 <a href="https://arxiv.org/pdf/2504.03770" target="_blank" style="background:#e9d5ff;color:#6b21a8;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">COLM 2025</a>
-<a href="https://arxiv.org/pdf/2601.07185" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">arXiv 2026</a>
+<a href="https://arxiv.org/pdf/2601.07185" target="_blank" style="background:#e9d5ff;color:#6b21a8;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ACL 2026</a>
 <a href="https://arxiv.org/pdf/2602.00364" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">arXiv 2026</a>
 </div>
 <div style="margin-bottom:0;">
@@ -108,15 +108,15 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 <div style="position:absolute;left:8px;top:6px;bottom:6px;width:2px;background:#e5e7eb;border-radius:1px;"></div>
 
 <div style="position:relative;margin-bottom:14px;">
-<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#10b981;border:2px solid white;box-shadow:0 0 0 2px #10b981;"></div>
-<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.03</span>&nbsp;<span style="background:#d1fae5;color:#065f46;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🎓 Milestone</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;">Passed the PhD Qualifying Exam and officially became a <strong>PhD candidate</strong>.</div>
-</div>
-
-<div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
 <div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.04</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span></div>
 <div style="margin-top:3px;font-size:13px;color:#374151;">Our paper "<a href="https://arxiv.org/abs/2601.07185"><strong>Defenses Against Prompt Attacks Learn Surface Heuristics</strong></a>" is accepted by <strong>ACL 2026</strong>.</div>
+</div>
+
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#10b981;border:2px solid white;box-shadow:0 0 0 2px #10b981;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.03</span>&nbsp;<span style="background:#d1fae5;color:#065f46;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🎓 Milestone</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">Passed the PhD Qualifying Exam and officially became a <strong>PhD candidate</strong>.</div>
 </div>
 
 <div style="position:relative;margin-bottom:14px;">
