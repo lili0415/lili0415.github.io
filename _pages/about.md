@@ -164,7 +164,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
 <div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2025.02</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span>&nbsp;<span style="background:#fee2e2;color:#991b1b;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">⭐ Highlight</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;">"DPU: Dynamic Prototype Updating for Multimodal OOD Detection" accepted as a <strong>Highlight Paper (Top 3.7%)</strong> by CVPR 2025.</div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">"DPU: Dynamic Prototype Updating for Multimodal OOD Detection" accepted as a <strong>Highlight Paper (Top 3.7%)</strong> by <strong>CVPR 2025</strong>.</div>
 </div>
 
 <div style="position:relative;margin-bottom:14px;">
