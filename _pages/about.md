@@ -44,7 +44,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 <div style="margin-bottom:8px;">
 <span style="font-size:13px;color:#374151;font-weight:500;">Efficient &amp; Secure On-Device Multimodal Adaptation</span><br>
 <a href="https://arxiv.org/pdf/2503.06166" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ICCV 2025</a>
-<a href="https://dl.acm.org/doi/abs/10.1145/3706422" target="_blank" style="background:#d1fae5;color:#065f46;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">TOMM 2024</a>
+<a href="https://dl.acm.org/doi/abs/10.1145/3706422" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">TOMM 2024</a>
 </div>
 <div style="margin-bottom:8px;">
 <span style="font-size:13px;color:#374151;font-weight:500;">Debiased &amp; Structure-Aware Multimodal Representations</span><br>
@@ -54,11 +54,11 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 </div>
 <div style="margin-bottom:0;">
 <span style="font-size:13px;color:#374151;font-weight:500;">Multimodal Retrieval, Video Understanding &amp; Graph-Based Reasoning</span><br>
-<a href="https://arxiv.org/pdf/2504.06438" target="_blank" style="background:#d1fae5;color:#065f46;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">TMLR 2026</a>
+<a href="https://arxiv.org/pdf/2504.06438" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">TMLR 2026</a>
 <a href="https://openreview.net/pdf?id=qdOIkeZ5e4" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ICLR 2025</a>
 <a href="https://dl.acm.org/doi/abs/10.1145/3767695.3769516" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">SIGIR-AP 2025</a>
 <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/407106f4b56040b2e8dcad75a6e461e5-Paper-Conference.pdf" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">NeurIPS 2023</a>
-<a href="https://dl.acm.org/doi/abs/10.1145/3701733" target="_blank" style="background:#d1fae5;color:#065f46;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">TOMM 2024</a>
+<a href="https://dl.acm.org/doi/abs/10.1145/3701733" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">TOMM 2024</a>
 </div>
 </div>
 
@@ -93,7 +93,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 <div style="margin-bottom:0;">
 <span style="font-size:13px;color:#374151;font-weight:500;">Dataset Construction, Benchmarks &amp; Evaluation for Trustworthy AI</span><br>
 <a href="https://arxiv.org/pdf/2512.00752" target="_blank" style="background:#bbf7d0;color:#14532d;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ICLR 2026</a>
-<a href="https://arxiv.org/pdf/2505.14106" target="_blank" style="background:#fef3c7;color:#92400e;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">MTI-LLM@NeurIPS 2025 🏆</a>
+<a href="https://arxiv.org/pdf/2505.14106" target="_blank" style="background:#bbf7d0;color:#14532d;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">MTI-LLM@NeurIPS 2025 🏆</a>
 <a href="https://aclanthology.org/2025.findings-acl.79.pdf" target="_blank" style="background:#bbf7d0;color:#14532d;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ACL 2025</a>
 <a href="https://dl.acm.org/doi/abs/10.1145/3510003.3510160" target="_blank" style="background:#bbf7d0;color:#14532d;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ICSE 2022</a>
 </div>
@@ -106,6 +106,12 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 
 <div style="position:relative;padding-left:28px;margin:16px 0;">
 <div style="position:absolute;left:8px;top:6px;bottom:6px;width:2px;background:#e5e7eb;border-radius:1px;"></div>
+
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#22c55e;border:2px solid white;box-shadow:0 0 0 2px #22c55e;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.05</span>&nbsp;<span style="background:#dcfce7;color:#14532d;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">👔 Position</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">Joining <strong>Adobe Research</strong> as a Research Scientist Intern this summer 2026. Hope to have a great summer in San Jose!</div>
+</div>
 
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
@@ -193,6 +199,19 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 <span class='anchor' id='work-experiences'></span>
 
 <div style="display:flex;flex-direction:column;gap:12px;margin:16px 0;">
+
+<div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:8px;padding:14px 18px;">
+<div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:8px;">
+<div>
+<div style="font-weight:700;font-size:14px;color:#111827;">Research Scientist Intern</div>
+<div style="font-size:13px;color:#4b5563;margin-top:3px;">Adobe Research</div>
+</div>
+<div style="text-align:right;">
+<div style="font-size:12px;font-weight:600;color:#374151;">05/2026 – 08/2026</div>
+<div style="font-size:12px;color:#6b7280;margin-top:2px;">San Jose, CA</div>
+</div>
+</div>
+</div>
 
 <div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:8px;padding:14px 18px;">
 <div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:8px;">
