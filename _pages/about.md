@@ -108,6 +108,12 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 <div style="position:absolute;left:8px;top:6px;bottom:6px;width:2px;background:#e5e7eb;border-radius:1px;"></div>
 
 <div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#8b5cf6;border:2px solid white;box-shadow:0 0 0 2px #8b5cf6;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.06</span>&nbsp;<span style="background:#ede9fe;color:#4c1d95;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📣 Featured</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">Our papers "<a href="https://sites.usc.edu/ietc/2026/06/05/defenses-against-prompt-attacks-learn-surface-heuristics/"><strong>Defenses Against Prompt Attacks Learn Surface Heuristics</strong></a>" and "<a href="https://sites.usc.edu/ietc/2026/06/05/fortis-benchmarking-over-privilage-in-agent-skills/"><strong>FORTIS: Benchmarking Over-Privilege in Agent Skills</strong></a>" are featured by the <a href="https://sites.usc.edu/ietc/publications/"><strong>USC Institute on Ethics and Trust in Computing</strong></a>.</div>
+</div>
+
+<div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
 <div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.05</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span></div>
 <div style="margin-top:3px;font-size:13px;color:#374151;">New paper "<a href="https://arxiv.org/abs/2605.09163"><strong>FORTIS: Benchmarking Over-Privilege in Agent Skills</strong></a>" is now on arXiv.</div>
