@@ -358,7 +358,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2503.06169" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">Treble Counterfactual VLMs: A Causal Approach to Hallucination</span> 
       <br><b>Li Li</b>, Jiashu Qu, Yuxiao Zhou, Yuehan Qin, Tiankai Yang, Yue Zhao
-    <br><span style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">EMNLP 2025 Findings</span>&nbsp;&nbsp;
+    <br><span style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">EMNLP 2025</span>&nbsp;&nbsp;
   </td> 
   </tr>
  </tbody>
@@ -649,7 +649,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 <span class='anchor' id='educations'></span>
   08/2024 - present
 
-  Doctor of Philosophy in Computer Science
+  Doctor of Philosophy
 
   University of Southern California, USA
 
@@ -659,7 +659,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
   2022.08 - 2024.02
 
-  Master of Science in Industry 4.0
+  Master of Science
 
   National University of Singapore, Singapore
 
@@ -668,7 +668,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
   
   2018.08 - 2022.06
 
-  Bachelor of Engineering in Software Engineering
+  Bachelor of Engineering
 
   TongJi University, China
 
