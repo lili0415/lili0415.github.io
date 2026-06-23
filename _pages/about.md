@@ -624,6 +624,10 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 <div style="font-size:13px;font-weight:700;color:#374151;margin-bottom:8px;">Program Committee / Reviewer</div>
 <div style="display:flex;flex-direction:column;gap:6px;">
 <div style="display:flex;align-items:baseline;gap:12px;">
+<span style="font-size:12px;font-weight:700;color:#9ca3af;min-width:34px;">2027</span>
+<span style="font-size:13px;color:#374151;">AAAI</span>
+</div>
+<div style="display:flex;align-items:baseline;gap:12px;">
 <span style="font-size:12px;font-weight:700;color:#9ca3af;min-width:34px;">2026</span>
 <span style="font-size:13px;color:#374151;">NeurIPS, CVPR, AAAI, ICML, ICLR, COLM, KDD, ECCV</span>
 </div>
