@@ -40,6 +40,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 <span style="font-size:13px;color:#374151;font-weight:500;">Multimodal OOD Detection &amp; Robust Representation Learning</span><br>
 <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Li_DPU_Dynamic_Prototype_Updating_for_Multimodal_Out-of-Distribution_Detection_CVPR_2025_paper.pdf" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">⭐ CVPR 2025 Highlight</a>
 <a href="https://dl.acm.org/doi/abs/10.1145/3701716.3715196" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">WWW 2025</a>
+<a href="https://arxiv.org/pdf/2605.03410" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">arXiv 2026</a>
 </div>
 <div style="margin-bottom:8px;">
 <span style="font-size:13px;color:#374151;font-weight:500;">Efficient &amp; Secure On-Device Multimodal Adaptation</span><br>
@@ -87,6 +88,8 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 <div style="margin-bottom:8px;">
 <span style="font-size:13px;color:#374151;font-weight:500;">Agentic &amp; Tool-Augmented LLM Systems</span><br>
 <a href="https://arxiv.org/pdf/2508.03923" target="_blank" style="background:#bbf7d0;color:#14532d;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ICLR 2026</a>
+<a href="https://arxiv.org/pdf/2606.28739" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">arXiv 2026</a>
+<a href="https://arxiv.org/pdf/2605.09163" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">arXiv 2026</a>
 <a href="https://arxiv.org/abs/2602.09084" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">arXiv 2026</a>
 <a href="https://arxiv.org/abs/2603.19423" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">arXiv 2026</a>
 </div>
