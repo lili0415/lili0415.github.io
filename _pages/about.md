@@ -108,6 +108,12 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 <div style="position:absolute;left:8px;top:6px;bottom:6px;width:2px;background:#e5e7eb;border-radius:1px;"></div>
 
 <div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.06</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">New paper "<a href="https://arxiv.org/abs/2606.28739"><strong>Agent Safety Is Action Alignment</strong></a>" is now on arXiv.</div>
+</div>
+
+<div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#8b5cf6;border:2px solid white;box-shadow:0 0 0 2px #8b5cf6;"></div>
 <div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.06</span>&nbsp;<span style="background:#ede9fe;color:#4c1d95;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📣 Featured</span></div>
 <div style="margin-top:3px;font-size:13px;color:#374151;">Our papers "<a href="https://sites.usc.edu/ietc/2026/06/05/defenses-against-prompt-attacks-learn-surface-heuristics/"><strong>Defenses Against Prompt Attacks Learn Surface Heuristics</strong></a>" and "<a href="https://sites.usc.edu/ietc/2026/06/05/fortis-benchmarking-over-privilage-in-agent-skills/"><strong>FORTIS: Benchmarking Over-Privilege in Agent Skills</strong></a>" are featured by the <a href="https://sites.usc.edu/ietc/publications/"><strong>USC Institute on Ethics and Trust in Computing</strong></a>.</div>
@@ -265,6 +271,18 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 # Selected Publications
 <span class='anchor' id='publications'></span>
 please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL4cAAAAJ&hl=zh-CN) page to check all my publications. (* Equal Contribution)
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2606.28739" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Agent Safety Is Action Alignment</span>
+      <br><b>Li Li</b>, Yue Zhao
+    <br><span style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Preprint</span>&nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
 
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
