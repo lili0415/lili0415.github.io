@@ -92,7 +92,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 <span style="font-size:13px;color:#374151;font-weight:500;">Agentic &amp; Tool-Augmented LLM Systems</span><br>
 <a href="https://arxiv.org/pdf/2508.03923" target="_blank" style="background:#bbf7d0;color:#14532d;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ICLR 2026</a>
 <a href="https://arxiv.org/abs/2602.09084" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">arXiv 2026</a>
-<a href="https://arxiv.org/abs/2603.19423" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">arXiv 2026</a>
+<a href="https://arxiv.org/abs/2603.19423" target="_blank" style="background:#bbf7d0;color:#14532d;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">EMNLP 2026</a>
 </div>
 <div style="margin-bottom:0;">
 <span style="font-size:13px;color:#374151;font-weight:500;">Dataset Construction, Benchmarks &amp; Evaluation for Trustworthy AI</span><br>
@@ -110,6 +110,12 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 
 <div style="position:relative;padding-left:28px;margin:16px 0;">
 <div style="position:absolute;left:8px;top:6px;bottom:6px;width:2px;background:#e5e7eb;border-radius:1px;"></div>
+
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.08</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">Our paper "<a href="https://arxiv.org/abs/2603.19423"><strong>The Autonomy Tax: Defense Training Breaks LLM Agents</strong></a>" is accepted to the <strong>EMNLP 2026 Main Conference</strong>.</div>
+</div>
 
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
@@ -157,12 +163,6 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#10b981;border:2px solid white;box-shadow:0 0 0 2px #10b981;"></div>
 <div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.03</span>&nbsp;<span style="background:#d1fae5;color:#065f46;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">🎓 Milestone</span></div>
 <div style="margin-top:3px;font-size:13px;color:#374151;">Passed the PhD Qualifying Exam and officially became a <strong>PhD candidate</strong>.</div>
-</div>
-
-<div style="position:relative;margin-bottom:14px;">
-<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
-<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.03</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;">New paper "<a href="https://arxiv.org/abs/2603.19423"><strong>The Autonomy Tax: Defense Training Breaks LLM Agents</strong></a>" is now on arXiv.</div>
 </div>
 
 <div style="position:relative;margin-bottom:14px;">
@@ -336,7 +336,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/abs/2603.19423" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">The Autonomy Tax: Defense Training Breaks LLM Agents</span>
       <br><b>Li Li</b>, Yue Zhao
-    <br><span style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Preprint</span>&nbsp;&nbsp;
+    <br><span style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">EMNLP 2026 Main Conference</span>&nbsp;&nbsp;
   </td>
   </tr>
  </tbody>
