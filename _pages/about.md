@@ -336,7 +336,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/abs/2603.19423" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">The Autonomy Tax: Defense Training Breaks LLM Agents</span>
       <br><b>Li Li</b>, Yue Zhao
-    <br><span style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">EMNLP 2026 Main Conference</span>&nbsp;&nbsp;
+    <br><span style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">EMNLP 2026</span>&nbsp;&nbsp;
   </td>
   </tr>
  </tbody>
