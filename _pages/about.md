@@ -665,7 +665,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 <div style="display:flex;flex-direction:column;gap:6px;">
 <div style="display:flex;align-items:baseline;gap:12px;">
 <span style="font-size:12px;font-weight:700;color:#9ca3af;min-width:34px;">2027</span>
-<span style="font-size:13px;color:#374151;">AAAI</span>
+<span style="font-size:13px;color:#374151;">AAAI, ICLR</span>
 </div>
 <div style="display:flex;align-items:baseline;gap:12px;">
 <span style="font-size:12px;font-weight:700;color:#9ca3af;min-width:34px;">2026</span>
@@ -722,7 +722,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 
   TongJi University, China
 
-<!-- <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=MtgOD5bYVhrJl1tzX74CbRhUUslEFdbq-StiPxMz5Ts&cl=ffffff&w=a"></script> -->
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=MtgOD5bYVhrJl1tzX74CbRhUUslEFdbq-StiPxMz5Ts&cl=ffffff&w=a"></script>
 
 
 
