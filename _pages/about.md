@@ -40,7 +40,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 <span style="font-size:13px;color:#374151;font-weight:500;">Multimodal OOD Detection &amp; Robust Representation Learning</span><br>
 <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Li_DPU_Dynamic_Prototype_Updating_for_Multimodal_Out-of-Distribution_Detection_CVPR_2025_paper.pdf" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">⭐ CVPR 2025 Highlight</a>
 <a href="https://dl.acm.org/doi/abs/10.1145/3701716.3715196" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">WWW 2025</a>
-<a href="https://arxiv.org/pdf/2605.03410" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">arXiv 2026</a>
+<a href="https://arxiv.org/pdf/2605.03410" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">NeurIPS 2026</a>
 </div>
 <div style="margin-bottom:8px;">
 <span style="font-size:13px;color:#374151;font-weight:500;">Efficient &amp; Secure On-Device Multimodal Adaptation</span><br>
@@ -110,6 +110,12 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 
 <div style="position:relative;padding-left:28px;margin:16px 0;">
 <div style="position:absolute;left:8px;top:6px;bottom:6px;width:2px;background:#e5e7eb;border-radius:1px;"></div>
+
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.09</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">Our paper "<a href="https://arxiv.org/abs/2605.03410"><strong>Geometry over Density: Few-Shot Cross-Domain OOD Detection</strong></a>" is accepted to <strong>NeurIPS 2026</strong>.</div>
+</div>
 
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
@@ -324,7 +330,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2605.03410" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">Geometry over Density: Few-Shot Cross-Domain OOD Detection</span>
       <br><b>Li Li</b>*, You Qin*, Jiate Li, Charith Peris, Lisa Bauer, Roger Zimmermann, Yue Zhao
-    <br><span style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Preprint</span>&nbsp;&nbsp;
+    <br><span style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">NeurIPS 2026</span>&nbsp;&nbsp;
   </td>
   </tr>
  </tbody>
