@@ -148,12 +148,6 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 </div>
 
 <div style="position:relative;margin-bottom:14px;">
-<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
-<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.05</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span></div>
-<div style="margin-top:3px;font-size:13px;color:#374151;">New paper "<a href="https://arxiv.org/abs/2605.03410"><strong>Geometry over Density: Few-Shot Cross-Domain OOD Detection</strong></a>" is now on arXiv.</div>
-</div>
-
-<div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#22c55e;border:2px solid white;box-shadow:0 0 0 2px #22c55e;"></div>
 <div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.05</span>&nbsp;<span style="background:#dcfce7;color:#14532d;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">👔 Position</span></div>
 <div style="margin-top:3px;font-size:13px;color:#374151;">Joining <strong>Adobe Research</strong> as a Research Scientist Intern this summer 2026. Hope to have a great summer in San Jose!</div>
