@@ -78,6 +78,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 <a href="https://arxiv.org/pdf/2602.00364" target="_blank" style="background:#e9d5ff;color:#6b21a8;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ICML 2026</a>
 <a href="https://arxiv.org/pdf/2606.28739" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">arXiv 2026</a>
 <a href="https://arxiv.org/pdf/2605.09163" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">arXiv 2026</a>
+<a href="https://arxiv.org/pdf/2609.36956" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">arXiv 2026</a>
 </div>
 <div style="margin-bottom:0;">
 <span style="font-size:13px;color:#374151;font-weight:500;">LLM-based Anomaly Detection, OOD Detection &amp; Benchmarking</span><br>
@@ -110,6 +111,12 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 
 <div style="position:relative;padding-left:28px;margin:16px 0;">
 <div style="position:absolute;left:8px;top:6px;bottom:6px;width:2px;background:#e5e7eb;border-radius:1px;"></div>
+
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
+<div><span style="font-size:11px;color:#9ca3af;font-weight:500;">2026.09</span>&nbsp;<span style="background:#dbeafe;color:#1e40af;padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;">📄 Paper</span></div>
+<div style="margin-top:3px;font-size:13px;color:#374151;">Our new paper "<a href="https://arxiv.org/abs/2609.36956"><strong>Controlled Decoding Attacks on Black-Box LLMs</strong></a>" is now on arXiv.</div>
+</div>
 
 <div style="position:relative;margin-bottom:14px;">
 <div style="position:absolute;left:-22px;top:4px;width:10px;height:10px;border-radius:50%;background:#3b82f6;border:2px solid white;box-shadow:0 0 0 2px #3b82f6;"></div>
@@ -281,6 +288,18 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 # Selected Publications
 <span class='anchor' id='publications'></span>
 please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL4cAAAAJ&hl=zh-CN) page to check all my publications. (* Equal Contribution)
+
+<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+  <tbody>
+  <tr>
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2609.36956" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Controlled Decoding Attacks on Black-Box LLMs</span>
+      <br>Jesson Wang*, <b>Li Li</b>*, Wei Yang, Franck Dernoncourt, Ryan A. Rossi, Charith Peris, Yue Zhao
+    <br><span style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;">Preprint</span>&nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
 
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
