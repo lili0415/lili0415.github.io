@@ -41,6 +41,7 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Li_DPU_Dynamic_Prototype_Updating_for_Multimodal_Out-of-Distribution_Detection_CVPR_2025_paper.pdf" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">⭐ CVPR 2025 Highlight</a>
 <a href="https://dl.acm.org/doi/abs/10.1145/3701716.3715196" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">WWW 2025</a>
 <a href="https://arxiv.org/pdf/2605.03410" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">NeurIPS 2026</a>
+<a href="https://arxiv.org/pdf/2411.13578" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">TMLR 2026</a>
 </div>
 <div style="margin-bottom:8px;">
 <span style="font-size:13px;color:#374151;font-weight:500;">Efficient &amp; Secure On-Device Multimodal Adaptation</span><br>
@@ -52,8 +53,9 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28098" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">AAAI 2024</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/10447193/" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ICASSP 2024</a>
 <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r4kIL4cAAAAJ&citation_for_view=r4kIL4cAAAAJ:RoXSNcbkSzsC" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ACM MM 2023</a>
+<a href="https://arxiv.org/pdf/2503.11892" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ICLR 2026</a>
 </div>
-<div style="margin-bottom:0;">
+<div style="margin-bottom:8px;">
 <span style="font-size:13px;color:#374151;font-weight:500;">Multimodal Retrieval, Video Understanding &amp; Graph-Based Reasoning</span><br>
 <a href="https://arxiv.org/pdf/2504.06438" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">TMLR 2026</a>
 <a href="https://openreview.net/pdf?id=qdOIkeZ5e4" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ICLR 2025</a>
@@ -61,6 +63,10 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 <a href="https://arxiv.org/pdf/2607.27670" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">arXiv 2026</a>
 <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/407106f4b56040b2e8dcad75a6e461e5-Paper-Conference.pdf" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">NeurIPS 2023</a>
 <a href="https://dl.acm.org/doi/abs/10.1145/3701733" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">TOMM 2024</a>
+</div>
+<div style="margin-bottom:0;">
+<span style="font-size:13px;color:#374151;font-weight:500;">Cross-Modal Generation for Scientific Applications</span><br>
+<a href="https://doi.org/10.1109/TGRS.2026.3686188" target="_blank" style="background:#dbeafe;color:#1e40af;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">TGRS 2026</a>
 </div>
 </div>
 
@@ -94,6 +100,13 @@ My research interests are centered around multimodal learning, Out-of-Distributi
 <a href="https://arxiv.org/pdf/2508.03923" target="_blank" style="background:#bbf7d0;color:#14532d;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">ICLR 2026</a>
 <a href="https://arxiv.org/abs/2602.09084" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">arXiv 2026</a>
 <a href="https://arxiv.org/abs/2603.19423" target="_blank" style="background:#bbf7d0;color:#14532d;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">EMNLP 2026</a>
+<a href="https://arxiv.org/abs/2606.22844" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">arXiv 2026</a>
+<a href="https://arxiv.org/abs/2609.38593" target="_blank" style="background:#f3f4f6;color:#4b5563;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">arXiv 2026</a>
+</div>
+<div style="margin-bottom:8px;">
+<span style="font-size:13px;color:#374151;font-weight:500;">Personalized Memory &amp; Conversational User Simulation</span><br>
+<a href="https://arxiv.org/abs/2606.02976" target="_blank" style="background:#bbf7d0;color:#14532d;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">NeurIPS 2026</a>
+<a href="https://arxiv.org/abs/2604.24977" target="_blank" style="background:#bbf7d0;color:#14532d;padding:2px 7px;border-radius:4px;font-size:11px;font-weight:600;text-decoration:none;margin:2px 3px 2px 0;display:inline-block;">EACL 2026</a>
 </div>
 <div style="margin-bottom:0;">
 <span style="font-size:13px;color:#374151;font-weight:500;">Dataset Construction, Benchmarks &amp; Evaluation for Trustworthy AI</span><br>
